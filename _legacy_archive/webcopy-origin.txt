@@ -1,0 +1,1567 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css
+File Name: C:\Downloaded Web Sites\madamcutie.com\ajax\libs\font-awesome\6.4.0\css\all.min-1.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\madamcutie.com\ajax\libs\font-awesome\6.4.0\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\madamcutie.com\ajax\libs\font-awesome\6.4.0\webfonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\madamcutie.com\ajax\libs\font-awesome\6.4.0\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\madamcutie.com\ajax\libs\font-awesome\6.4.0\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\madamcutie.com\ajax\libs\font-awesome\6.4.0\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\madamcutie.com\ajax\libs\font-awesome\6.4.0\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\madamcutie.com\ajax\libs\font-awesome\6.4.0\webfonts\fa-v4compatibility.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\madamcutie.com\ajax\libs\font-awesome\6.4.0\webfonts\fa-v4compatibility.woff2
+Content Type: application/octet-stream
+
+Uri: https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap
+File Name: C:\Downloaded Web Sites\madamcutie.com\css2-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v40/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_qiTbtY.ttf
+File Name: C:\Downloaded Web Sites\madamcutie.com\s\playfairdisplay\v40\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_qiTbtY-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v40/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKd3vUDQ.ttf
+File Name: C:\Downloaded Web Sites\madamcutie.com\s\playfairdisplay\v40\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKd3vUDQ-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v40/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvUDQ.ttf
+File Name: C:\Downloaded Web Sites\madamcutie.com\s\playfairdisplay\v40\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvUDQ-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v40/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKebukDQ.ttf
+File Name: C:\Downloaded Web Sites\madamcutie.com\s\playfairdisplay\v40\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKebukDQ-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v40/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKeiukDQ.ttf
+File Name: C:\Downloaded Web Sites\madamcutie.com\s\playfairdisplay\v40\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKeiukDQ-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v12/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_907NSg.ttf
+File Name: C:\Downloaded Web Sites\madamcutie.com\s\plusjakartasans\v12\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_907NSg-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v12/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_d0nNSg.ttf
+File Name: C:\Downloaded Web Sites\madamcutie.com\s\plusjakartasans\v12\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_d0nNSg-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v12/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_m07NSg.ttf
+File Name: C:\Downloaded Web Sites\madamcutie.com\s\plusjakartasans\v12\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_m07NSg-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v12/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_qU7NSg.ttf
+File Name: C:\Downloaded Web Sites\madamcutie.com\s\plusjakartasans\v12\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_qU7NSg-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v12/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_TknNSg.ttf
+File Name: C:\Downloaded Web Sites\madamcutie.com\s\plusjakartasans\v12\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_TknNSg-1.ttf
+Content Type: font/ttf
+
+Uri: https://help.zazzle.com/hc/article_attachments/360010513393/Logos-01.png
+File Name: C:\Downloaded Web Sites\madamcutie.com\hc\article_attachments\360010513393\Logos-01-1.png
+Content Type: image/png
+
+Uri: https://madamcutie.com/
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-72.htm
+Content Type: text/html
+
+Uri: https://madamcutie.com/about
+File Name: C:\Downloaded Web Sites\madamcutie.com\about-1
+Content Type: text/html
+
+Uri: https://madamcutie.com/admin
+File Name: C:\Downloaded Web Sites\madamcutie.com\admin-1
+Content Type: text/html
+
+Uri: https://madamcutie.com/assets/images/logo.jpg
+File Name: C:\Downloaded Web Sites\madamcutie.com\assets\images\logo-1.jpg
+Content Type: image/jpeg
+
+Uri: https://madamcutie.com/assets/images/madam/party_wear_1.jpg
+File Name: C:\Downloaded Web Sites\madamcutie.com\assets\images\madam\party_wear_1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://madamcutie.com/assets/images/madam/party_wear_2.jpg
+File Name: C:\Downloaded Web Sites\madamcutie.com\assets\images\madam\party_wear_2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://madamcutie.com/assets/images/madam/party_wear_3.jpg
+File Name: C:\Downloaded Web Sites\madamcutie.com\assets\images\madam\party_wear_3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://madamcutie.com/assets/images/madam/saini-01.jpg
+File Name: C:\Downloaded Web Sites\madamcutie.com\assets\images\madam\saini-01-1.jpg
+Content Type: image/jpeg
+
+Uri: https://madamcutie.com/assets/images/madam/saini-02.jpg
+File Name: C:\Downloaded Web Sites\madamcutie.com\assets\images\madam\saini-02-1.jpg
+Content Type: image/jpeg
+
+Uri: https://madamcutie.com/assets/images/madam/saini-03.jpg
+File Name: C:\Downloaded Web Sites\madamcutie.com\assets\images\madam\saini-03-1.jpg
+Content Type: image/jpeg
+
+Uri: https://madamcutie.com/assets/images/madam/saini-04.jpg
+File Name: C:\Downloaded Web Sites\madamcutie.com\assets\images\madam\saini-04-1.jpg
+Content Type: image/jpeg
+
+Uri: https://madamcutie.com/assets/images/madam/saini-05.jpg
+File Name: C:\Downloaded Web Sites\madamcutie.com\assets\images\madam\saini-05-1.jpg
+Content Type: image/jpeg
+
+Uri: https://madamcutie.com/assets/images/madam/saini-06.jpg
+File Name: C:\Downloaded Web Sites\madamcutie.com\assets\images\madam\saini-06-1.jpg
+Content Type: image/jpeg
+
+Uri: https://madamcutie.com/assets/images/madam/saini-07.jpg
+File Name: C:\Downloaded Web Sites\madamcutie.com\assets\images\madam\saini-07-1.jpg
+Content Type: image/jpeg
+
+Uri: https://madamcutie.com/assets/images/madam/saini-08.jpg
+File Name: C:\Downloaded Web Sites\madamcutie.com\assets\images\madam\saini-08-1.jpg
+Content Type: image/jpeg
+
+Uri: https://madamcutie.com/assets/images/madam/saini-09.jpg
+File Name: C:\Downloaded Web Sites\madamcutie.com\assets\images\madam\saini-09-1.jpg
+Content Type: image/jpeg
+
+Uri: https://madamcutie.com/assets/images/madam/saini-10.jpg
+File Name: C:\Downloaded Web Sites\madamcutie.com\assets\images\madam\saini-10-1.jpg
+Content Type: image/jpeg
+
+Uri: https://madamcutie.com/assets/images/madam/saini-11.jpg
+File Name: C:\Downloaded Web Sites\madamcutie.com\assets\images\madam\saini-11-1.jpg
+Content Type: image/jpeg
+
+Uri: https://madamcutie.com/assets/images/madam/saini-12.jpg
+File Name: C:\Downloaded Web Sites\madamcutie.com\assets\images\madam\saini-12-1.jpg
+Content Type: image/jpeg
+
+Uri: https://madamcutie.com/assets/images/madam/saini-13.jpg
+File Name: C:\Downloaded Web Sites\madamcutie.com\assets\images\madam\saini-13-1.jpg
+Content Type: image/jpeg
+
+Uri: https://madamcutie.com/assets/images/madam/saini-14.jpg
+File Name: C:\Downloaded Web Sites\madamcutie.com\assets\images\madam\saini-14-1.jpg
+Content Type: image/jpeg
+
+Uri: https://madamcutie.com/assets/images/madam/saini-15.jpg
+File Name: C:\Downloaded Web Sites\madamcutie.com\assets\images\madam\saini-15-1.jpg
+Content Type: image/jpeg
+
+Uri: https://madamcutie.com/assets/images/madam/saini-16.jpg
+File Name: C:\Downloaded Web Sites\madamcutie.com\assets\images\madam\saini-16-1.jpg
+Content Type: image/jpeg
+
+Uri: https://madamcutie.com/assets/images/madam/saini-17.jpg
+File Name: C:\Downloaded Web Sites\madamcutie.com\assets\images\madam\saini-17-1.jpg
+Content Type: image/jpeg
+
+Uri: https://madamcutie.com/assets/images/madam/saini-18.jpg
+File Name: C:\Downloaded Web Sites\madamcutie.com\assets\images\madam\saini-18-1.jpg
+Content Type: image/jpeg
+
+Uri: https://madamcutie.com/assets/images/madam/saini-19.jpg
+File Name: C:\Downloaded Web Sites\madamcutie.com\assets\images\madam\saini-19-1.jpg
+Content Type: image/jpeg
+
+Uri: https://madamcutie.com/assets/images/madam/saini-20.jpg
+File Name: C:\Downloaded Web Sites\madamcutie.com\assets\images\madam\saini-20-1.jpg
+Content Type: image/jpeg
+
+Uri: https://madamcutie.com/assets/images/madam/saini-21.jpg
+File Name: C:\Downloaded Web Sites\madamcutie.com\assets\images\madam\saini-21-1.jpg
+Content Type: image/jpeg
+
+Uri: https://madamcutie.com/assets/images/madam/saini-22.jpg
+File Name: C:\Downloaded Web Sites\madamcutie.com\assets\images\madam\saini-22-1.jpg
+Content Type: image/jpeg
+
+Uri: https://madamcutie.com/assets/images/madam/saini-23.jpg
+File Name: C:\Downloaded Web Sites\madamcutie.com\assets\images\madam\saini-23-1.jpg
+Content Type: image/jpeg
+
+Uri: https://madamcutie.com/assets/images/madam/saini-24.jpg
+File Name: C:\Downloaded Web Sites\madamcutie.com\assets\images\madam\saini-24-1.jpg
+Content Type: image/jpeg
+
+Uri: https://madamcutie.com/assets/images/madam/saini-25.jpg
+File Name: C:\Downloaded Web Sites\madamcutie.com\assets\images\madam\saini-25-1.jpg
+Content Type: image/jpeg
+
+Uri: https://madamcutie.com/assets/images/madam/saini-26.jpg
+File Name: C:\Downloaded Web Sites\madamcutie.com\assets\images\madam\saini-26-1.jpg
+Content Type: image/jpeg
+
+Uri: https://madamcutie.com/assets/images/madam/saini-27.jpg
+File Name: C:\Downloaded Web Sites\madamcutie.com\assets\images\madam\saini-27-1.jpg
+Content Type: image/jpeg
+
+Uri: https://madamcutie.com/assets/images/madam/saini-28.jpg
+File Name: C:\Downloaded Web Sites\madamcutie.com\assets\images\madam\saini-28-1.jpg
+Content Type: image/jpeg
+
+Uri: https://madamcutie.com/assets/images/madam/saini-29.jpg
+File Name: C:\Downloaded Web Sites\madamcutie.com\assets\images\madam\saini-29-1.jpg
+Content Type: image/jpeg
+
+Uri: https://madamcutie.com/assets/images/madam/saini-30.jpg
+File Name: C:\Downloaded Web Sites\madamcutie.com\assets\images\madam\saini-30-1.jpg
+Content Type: image/jpeg
+
+Uri: https://madamcutie.com/assets/images/madam/saini-31.jpg
+File Name: C:\Downloaded Web Sites\madamcutie.com\assets\images\madam\saini-31-1.jpg
+Content Type: image/jpeg
+
+Uri: https://madamcutie.com/assets/images/madam/saini-32.jpg
+File Name: C:\Downloaded Web Sites\madamcutie.com\assets\images\madam\saini-32-1.jpg
+Content Type: image/jpeg
+
+Uri: https://madamcutie.com/assets/images/madam/saini-33.jpg
+File Name: C:\Downloaded Web Sites\madamcutie.com\assets\images\madam\saini-33-1.jpg
+Content Type: image/jpeg
+
+Uri: https://madamcutie.com/assets/images/madam/saini-34.jpg
+File Name: C:\Downloaded Web Sites\madamcutie.com\assets\images\madam\saini-34-1.jpg
+Content Type: image/jpeg
+
+Uri: https://madamcutie.com/assets/images/madam/saini-35.jpg
+File Name: C:\Downloaded Web Sites\madamcutie.com\assets\images\madam\saini-35-1.jpg
+Content Type: image/jpeg
+
+Uri: https://madamcutie.com/assets/images/madam/saini-36.jpg
+File Name: C:\Downloaded Web Sites\madamcutie.com\assets\images\madam\saini-36-1.jpg
+Content Type: image/jpeg
+
+Uri: https://madamcutie.com/assets/images/madam/Vibrant handcrafted mirror-work ethnic corset blouse.PNG
+File Name: C:\Downloaded Web Sites\madamcutie.com\assets\images\madam\Vibrant handcrafted mirror-work ethnic corset blouse-1.PNG
+Content Type: image/png
+
+Uri: https://madamcutie.com/cart
+File Name: C:\Downloaded Web Sites\madamcutie.com\cart-1
+Content Type: text/html
+
+Uri: https://madamcutie.com/contact
+File Name: C:\Downloaded Web Sites\madamcutie.com\contact-1
+Content Type: text/html
+
+Uri: https://madamcutie.com/creators
+File Name: C:\Downloaded Web Sites\madamcutie.com\creators-1
+Content Type: text/html
+
+Uri: https://madamcutie.com/css/editorial.css
+File Name: C:\Downloaded Web Sites\madamcutie.com\css\editorial-1.css
+Content Type: text/css
+
+Uri: https://madamcutie.com/css/style.css
+File Name: C:\Downloaded Web Sites\madamcutie.com\css\style-1.css
+Content Type: text/css
+
+Uri: https://madamcutie.com/js/cart.js
+File Name: C:\Downloaded Web Sites\madamcutie.com\js\cart-1.js
+Content Type: application/javascript
+
+Uri: https://madamcutie.com/js/main.js
+File Name: C:\Downloaded Web Sites\madamcutie.com\js\main-1.js
+Content Type: application/javascript
+
+Uri: https://madamcutie.com/js/products.js
+File Name: C:\Downloaded Web Sites\madamcutie.com\js\products-3.js
+Content Type: application/javascript
+
+Uri: https://madamcutie.com/js/products.js?v=1.1
+File Name: C:\Downloaded Web Sites\madamcutie.com\js\products-2.js
+Content Type: application/javascript
+
+Uri: https://madamcutie.com/Madamcutie_banner.png
+File Name: C:\Downloaded Web Sites\madamcutie.com\Madamcutie_banner-1.png
+Content Type: image/png
+
+Uri: https://madamcutie.com/policy
+File Name: C:\Downloaded Web Sites\madamcutie.com\policy-1
+Content Type: text/html
+
+Uri: https://madamcutie.com/product
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-37
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p1
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-38
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p10
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-47
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p11
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-48
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p12
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-49
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p13
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-50
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p14
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-51
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p15
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-52
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p16
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-53
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p17
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-54
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p18
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-55
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p19
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-56
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p2
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-39
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p20
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-57
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p21
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-58
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p22
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-59
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p23
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-60
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p24
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-61
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p25
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-62
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p26
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-63
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p27
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-64
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p28
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-65
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p29
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-66
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p3
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-40
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p30
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-67
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p31
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-68
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p32
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-69
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p33
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-70
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p34
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-71
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p35
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-72
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p36
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-73
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p4
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-41
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p5
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-42
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p6
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-43
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p7
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-44
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p8
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-45
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p9
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-46
+Content Type: text/html
+
+Uri: https://madamcutie.com/shop
+File Name: C:\Downloaded Web Sites\madamcutie.com\shop-9
+Content Type: text/html
+
+Uri: https://madamcutie.com/shop?category=Corset Blouse
+File Name: C:\Downloaded Web Sites\madamcutie.com\shop-10
+Content Type: text/html
+
+Uri: https://madamcutie.com/shop?category=Designer Blouse
+File Name: C:\Downloaded Web Sites\madamcutie.com\shop-11
+Content Type: text/html
+
+Uri: https://madamcutie.com/shop?category=dresses
+File Name: C:\Downloaded Web Sites\madamcutie.com\shop-15
+Content Type: text/html
+
+Uri: https://madamcutie.com/shop?collection=all
+File Name: C:\Downloaded Web Sites\madamcutie.com\shop-17
+Content Type: text/html
+
+Uri: https://madamcutie.com/shop?collection=lookbook
+File Name: C:\Downloaded Web Sites\madamcutie.com\shop-16
+Content Type: text/html
+
+Uri: https://madamcutie.com/shop?edit=datenight
+File Name: C:\Downloaded Web Sites\madamcutie.com\shop-12
+Content Type: text/html
+
+Uri: https://madamcutie.com/shop?edit=office
+File Name: C:\Downloaded Web Sites\madamcutie.com\shop-13
+Content Type: text/html
+
+Uri: https://madamcutie.com/shop?edit=weekend
+File Name: C:\Downloaded Web Sites\madamcutie.com\shop-14
+Content Type: text/html
+
+.jpg
+Content Type: image/jpeg
+
+Uri: https://madamcutie.com/assets/images/madam/saini-19.jpg
+File Name: C:\Downloaded Web Sites\madamcutie.com\assets\images\madam\saini-19.jpg
+Content Type: image/jpeg
+
+Uri: https://madamcutie.com/assets/images/madam/saini-20.jpg
+File Name: C:\Downloaded Web Sites\madamcutie.com\assets\images\madam\saini-20.jpg
+Content Type: image/jpeg
+
+Uri: https://madamcutie.com/assets/images/madam/saini-21.jpg
+File Name: C:\Downloaded Web Sites\madamcutie.com\assets\images\madam\saini-21.jpg
+Content Type: image/jpeg
+
+Uri: https://madamcutie.com/assets/images/madam/saini-22.jpg
+File Name: C:\Downloaded Web Sites\madamcutie.com\assets\images\madam\saini-22.jpg
+Content Type: image/jpeg
+
+Uri: https://madamcutie.com/assets/images/madam/saini-23.jpg
+File Name: C:\Downloaded Web Sites\madamcutie.com\assets\images\madam\saini-23.jpg
+Content Type: image/jpeg
+
+Uri: https://madamcutie.com/assets/images/madam/saini-24.jpg
+File Name: C:\Downloaded Web Sites\madamcutie.com\assets\images\madam\saini-24.jpg
+Content Type: image/jpeg
+
+Uri: https://madamcutie.com/assets/images/madam/saini-25.jpg
+File Name: C:\Downloaded Web Sites\madamcutie.com\assets\images\madam\saini-25.jpg
+Content Type: image/jpeg
+
+Uri: https://madamcutie.com/assets/images/madam/saini-26.jpg
+File Name: C:\Downloaded Web Sites\madamcutie.com\assets\images\madam\saini-26.jpg
+Content Type: image/jpeg
+
+Uri: https://madamcutie.com/assets/images/madam/saini-27.jpg
+File Name: C:\Downloaded Web Sites\madamcutie.com\assets\images\madam\saini-27.jpg
+Content Type: image/jpeg
+
+Uri: https://madamcutie.com/assets/images/madam/saini-28.jpg
+File Name: C:\Downloaded Web Sites\madamcutie.com\assets\images\madam\saini-28.jpg
+Content Type: image/jpeg
+
+Uri: https://madamcutie.com/assets/images/madam/saini-29.jpg
+File Name: C:\Downloaded Web Sites\madamcutie.com\assets\images\madam\saini-29.jpg
+Content Type: image/jpeg
+
+Uri: https://madamcutie.com/assets/images/madam/saini-30.jpg
+File Name: C:\Downloaded Web Sites\madamcutie.com\assets\images\madam\saini-30.jpg
+Content Type: image/jpeg
+
+Uri: https://madamcutie.com/assets/images/madam/saini-31.jpg
+File Name: C:\Downloaded Web Sites\madamcutie.com\assets\images\madam\saini-31.jpg
+Content Type: image/jpeg
+
+Uri: https://madamcutie.com/assets/images/madam/saini-32.jpg
+File Name: C:\Downloaded Web Sites\madamcutie.com\assets\images\madam\saini-32.jpg
+Content Type: image/jpeg
+
+Uri: https://madamcutie.com/assets/images/madam/saini-33.jpg
+File Name: C:\Downloaded Web Sites\madamcutie.com\assets\images\madam\saini-33.jpg
+Content Type: image/jpeg
+
+Uri: https://madamcutie.com/assets/images/madam/saini-34.jpg
+File Name: C:\Downloaded Web Sites\madamcutie.com\assets\images\madam\saini-34.jpg
+Content Type: image/jpeg
+
+Uri: https://madamcutie.com/assets/images/madam/saini-35.jpg
+File Name: C:\Downloaded Web Sites\madamcutie.com\assets\images\madam\saini-35.jpg
+Content Type: image/jpeg
+
+Uri: https://madamcutie.com/assets/images/madam/saini-36.jpg
+File Name: C:\Downloaded Web Sites\madamcutie.com\assets\images\madam\saini-36.jpg
+Content Type: image/jpeg
+
+Uri: https://madamcutie.com/assets/images/madam/Vibrant handcrafted mirror-work ethnic corset blouse.PNG
+File Name: C:\Downloaded Web Sites\madamcutie.com\assets\images\madam\Vibrant handcrafted mirror-work ethnic corset blouse.PNG
+Content Type: image/png
+
+Uri: https://madamcutie.com/cart
+File Name: C:\Downloaded Web Sites\madamcutie.com\cart
+Content Type: text/html
+
+Uri: https://madamcutie.com/contact
+File Name: C:\Downloaded Web Sites\madamcutie.com\contact
+Content Type: text/html
+
+Uri: https://madamcutie.com/creators
+File Name: C:\Downloaded Web Sites\madamcutie.com\creators
+Content Type: text/html
+
+Uri: https://madamcutie.com/css/editorial.css
+File Name: C:\Downloaded Web Sites\madamcutie.com\css\editorial.css
+Content Type: text/css
+
+Uri: https://madamcutie.com/css/style.css
+File Name: C:\Downloaded Web Sites\madamcutie.com\css\style.css
+Content Type: text/css
+
+Uri: https://madamcutie.com/js/cart.js
+File Name: C:\Downloaded Web Sites\madamcutie.com\js\cart.js
+Content Type: application/javascript
+
+Uri: https://madamcutie.com/js/main.js
+File Name: C:\Downloaded Web Sites\madamcutie.com\js\main.js
+Content Type: application/javascript
+
+Uri: https://madamcutie.com/js/products.js
+File Name: C:\Downloaded Web Sites\madamcutie.com\js\products-1.js
+Content Type: application/javascript
+
+Uri: https://madamcutie.com/js/products.js?v=1.1
+File Name: C:\Downloaded Web Sites\madamcutie.com\js\products.js
+Content Type: application/javascript
+
+Uri: https://madamcutie.com/Madamcutie_banner.png
+File Name: C:\Downloaded Web Sites\madamcutie.com\Madamcutie_banner.png
+Content Type: image/png
+
+Uri: https://madamcutie.com/policy
+File Name: C:\Downloaded Web Sites\madamcutie.com\policy
+Content Type: text/html
+
+Uri: https://madamcutie.com/product
+File Name: C:\Downloaded Web Sites\madamcutie.com\product
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p1
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-1
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p10
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-10
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p11
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-11
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p12
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-12
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p13
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-13
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p14
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-14
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p15
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-15
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p16
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-16
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p17
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-17
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p18
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-18
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p19
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-19
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p2
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-2
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p20
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-20
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p21
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-21
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p22
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-22
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p23
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-23
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p24
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-24
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p25
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-25
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p26
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-26
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p27
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-27
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p28
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-28
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p29
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-29
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p3
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-3
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p30
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-30
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p31
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-31
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p32
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-32
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p33
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-33
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p34
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-34
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p35
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-35
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p36
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-36
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p4
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-4
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p5
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-5
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p6
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-6
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p7
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-7
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p8
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-8
+Content Type: text/html
+
+Uri: https://madamcutie.com/product?id=p9
+File Name: C:\Downloaded Web Sites\madamcutie.com\product-9
+Content Type: text/html
+
+Uri: https://madamcutie.com/shop
+File Name: C:\Downloaded Web Sites\madamcutie.com\shop
+Content Type: text/html
+
+Uri: https://madamcutie.com/shop?category=Corset Blouse
+File Name: C:\Downloaded Web Sites\madamcutie.com\shop-1
+Content Type: text/html
+
+Uri: https://madamcutie.com/shop?category=Designer Blouse
+File Name: C:\Downloaded Web Sites\madamcutie.com\shop-2
+Content Type: text/html
+
+Uri: https://madamcutie.com/shop?category=dresses
+File Name: C:\Downloaded Web Sites\madamcutie.com\shop-6
+Content Type: text/html
+
+Uri: https://madamcutie.com/shop?collection=all
+File Name: C:\Downloaded Web Sites\madamcutie.com\shop-8
+Content Type: text/html
+
+Uri: https://madamcutie.com/shop?collection=lookbook
+File Name: C:\Downloaded Web Sites\madamcutie.com\shop-7
+Content Type: text/html
+
+Uri: https://madamcutie.com/shop?edit=datenight
+File Name: C:\Downloaded Web Sites\madamcutie.com\shop-3
+Content Type: text/html
+
+Uri: https://madamcutie.com/shop?edit=office
+File Name: C:\Downloaded Web Sites\madamcutie.com\shop-4
+Content Type: text/html
+
+Uri: https://madamcutie.com/shop?edit=weekend
+File Name: C:\Downloaded Web Sites\madamcutie.com\shop-5
+Content Type: text/html
+
+Uri: https://pps.whatsapp.net/v/t61.24694-24/821670033_1577222550551343_9021206940224321915_n.jpg?ccb=11-4&oh=01_Q5Aa5wEf_UxP4a2JbRbWajzLcBKtg8FX5HFW4e1_GKm0I3n8MQ&oe=6AD9AC62&_nc_sid=5e03e0&_nc_cat=101
+File Name: C:\Downloaded Web Sites\madamcutie.com\v\t61.24694-24\821670033_1577222550551343_9021206940224321915_n.jpg
+Content Type: image/jpeg
+
+Uri: https://privacycenter.instagram.com/policy/?entry_point=ig_help_center_data_policy_redirect
+File Name: C:\Downloaded Web Sites\madamcutie.com\policy (1)\index.htm
+Content Type: text/html
+
+Uri: https://static.cdninstagram.com/rsrc.php/v5/yX/l/0,cross/mxp7kDqP8nUjd6uwu219MPQrMqh18V1JY9uBR9CbBmsCcdN8w6PDpJSaGUmQzO8_STfgQe914iiBfONMKn3YhINq1V63FCWahaTU49pVNahkCkQvuWABIjhhRs97xFZK--hB.css
+File Name: C:\Downloaded Web Sites\madamcutie.com\rsrc.php\v5\yX\l\0,cross\mxp7kDqP8nUjd6uwu219MPQrMqh18V1JY9uBR9CbBmsCcdN8w6PDpJSaGUmQzO8_STfgQe914iiBfONMKn3YhINq1V63FCWahaTU49pVNahkCkQvuWABIjhhRs97xFZK--hB.css
+Content Type: text/css
+
+Uri: https://static.cdninstagram.com/rsrc.php/y4/r/QaBlI0OZiks.ico
+File Name: C:\Downloaded Web Sites\madamcutie.com\rsrc.php\y4\r\QaBlI0OZiks.ico
+Content Type: image/x-icon
+
+Uri: https://static.cdninstagram.com/rsrc.php/y9/r/MptwNl-B2pS.webp
+File Name: C:\Downloaded Web Sites\madamcutie.com\rsrc.php\y9\r\MptwNl-B2pS.webp
+Content Type: image/webp
+
+Uri: https://static.cdninstagram.com/rsrc.php/yj/r/f01UdNyJjJj.webp
+File Name: C:\Downloaded Web Sites\madamcutie.com\rsrc.php\yj\r\f01UdNyJjJj.webp
+Content Type: image/webp
+
+Uri: https://static.cdninstagram.com/rsrc.php/yL/r/mMvhX4currF.webp
+File Name: C:\Downloaded Web Sites\madamcutie.com\rsrc.php\yL\r\mMvhX4currF.webp
+Content Type: image/webp
+
+Uri: https://static.cdninstagram.com/rsrc.php/yr/r/rzWiSjZRxk5.webp
+File Name: C:\Downloaded Web Sites\madamcutie.com\rsrc.php\yr\r\rzWiSjZRxk5.webp
+Content Type: image/webp
+
+Uri: https://static.cdninstagram.com/rsrc.php/yw/r/icwX0xAk0pz.webp
+File Name: C:\Downloaded Web Sites\madamcutie.com\rsrc.php\yw\r\icwX0xAk0pz.webp
+Content Type: image/webp
+
+Uri: https://static.cdninstagram.com/rsrc.php/yY/r/5OCV_xUyQ5h.webp
+File Name: C:\Downloaded Web Sites\madamcutie.com\rsrc.php\yY\r\5OCV_xUyQ5h.webp
+Content Type: image/webp
+
+Uri: https://static.whatsapp.net/rsrc.php/v1/yK/r/ZjwCTR_D5He.jpg
+File Name: C:\Downloaded Web Sites\madamcutie.com\rsrc.php\v1\yK\r\ZjwCTR_D5He.jpg
+Content Type: image/jpeg
+
+Uri: https://static.whatsapp.net/rsrc.php/v1/yQ/r/dPFl9fRFF9u.jpg
+File Name: C:\Downloaded Web Sites\madamcutie.com\rsrc.php\v1\yQ\r\dPFl9fRFF9u.jpg
+Content Type: image/jpeg
+
+Uri: https://static.whatsapp.net/rsrc.php/v1/y_/r/oqWQjtJbOPM.jpg
+File Name: C:\Downloaded Web Sites\madamcutie.com\rsrc.php\v1\y_\r\oqWQjtJbOPM.jpg
+Content Type: image/jpeg
+
+Uri: https://static.whatsapp.net/rsrc.php/v4/y0/r/GahfpYOaDHZ.js
+File Name: C:\Downloaded Web Sites\madamcutie.com\rsrc.php\v4\y0\r\GahfpYOaDHZ.js
+Content Type: application/x-javascript
+
+Uri: https://static.whatsapp.net/rsrc.php/v4/y4/r/CX1pIUscJnX.js
+File Name: C:\Downloaded Web Sites\madamcutie.com\rsrc.php\v4\y4\r\CX1pIUscJnX.js
+Content Type: application/x-javascript
+
+Uri: https://static.whatsapp.net/rsrc.php/v4/yB/r/xwZ-58W7La1.png
+File Name: C:\Downloaded Web Sites\madamcutie.com\rsrc.php\v4\yB\r\xwZ-58W7La1.png
+Content Type: image/png
+
+Uri: https://static.whatsapp.net/rsrc.php/v4/yE/r/-Tn_cQQIVNc.js
+File Name: C:\Downloaded Web Sites\madamcutie.com\rsrc.php\v4\yE\r\-Tn_cQQIVNc.js
+Content Type: application/x-javascript
+
+Uri: https://static.whatsapp.net/rsrc.php/v4/yk/r/BjlLV6P_WOJ.js
+File Name: C:\Downloaded Web Sites\madamcutie.com\rsrc.php\v4\yk\r\BjlLV6P_WOJ.js
+Content Type: application/x-javascript
+
+Uri: https://static.whatsapp.net/rsrc.php/v4/yR/r/89U7jk2uMkx.png
+File Name: C:\Downloaded Web Sites\madamcutie.com\rsrc.php\v4\yR\r\89U7jk2uMkx.png
+Content Type: image/png
+
+Uri: https://static.whatsapp.net/rsrc.php/v4i7M54/yK/l/en_GB-j/st2VSfEHJiw.js
+File Name: C:\Downloaded Web Sites\madamcutie.com\rsrc.php\v4i7M54\yK\l\en_GB-j\st2VSfEHJiw.js
+Content Type: application/x-javascript
+
+Uri: https://static.whatsapp.net/rsrc.php/v5/yH/l/0,cross/_jfkUskf2-v.css
+File Name: C:\Downloaded Web Sites\madamcutie.com\rsrc.php\v5\yH\l\0,cross\_jfkUskf2-v.css
+Content Type: text/css
+
+Uri: https://static.whatsapp.net/rsrc.php/v5/yk/l/0,cross/AiIZ-COK6vO.css
+File Name: C:\Downloaded Web Sites\madamcutie.com\rsrc.php\v5\yk\l\0,cross\AiIZ-COK6vO.css
+Content Type: text/css
+
+Uri: https://static.whatsapp.net/rsrc.php/v5/yo/l/0,cross/dZAJglt3U3O.css
+File Name: C:\Downloaded Web Sites\madamcutie.com\rsrc.php\v5\yo\l\0,cross\dZAJglt3U3O.css
+Content Type: text/css
+
+Uri: https://static.whatsapp.net/rsrc.php/y1/r/FJbTMJqMap7.svg
+File Name: C:\Downloaded Web Sites\madamcutie.com\rsrc.php\y1\r\FJbTMJqMap7.svg
+Content Type: image/svg+xml
+
+Uri: https://static.whatsapp.net/rsrc.php/y3/r/VZT6sG-iky_.svg
+File Name: C:\Downloaded Web Sites\madamcutie.com\rsrc.php\y3\r\VZT6sG-iky_.svg
+Content Type: image/svg+xml
+
+Uri: https://static.whatsapp.net/rsrc.php/yb/r/8M63Iqbp_vd.svg
+File Name: C:\Downloaded Web Sites\madamcutie.com\rsrc.php\yb\r\8M63Iqbp_vd.svg
+Content Type: image/svg+xml
+
+Uri: https://static.whatsapp.net/rsrc.php/yJ/r/twC7frrXavH.svg
+File Name: C:\Downloaded Web Sites\madamcutie.com\rsrc.php\yJ\r\twC7frrXavH.svg
+Content Type: image/svg+xml
+
+Uri: https://static.whatsapp.net/rsrc.php/yM/r/ys-5GPT4pwS.svg
+File Name: C:\Downloaded Web Sites\madamcutie.com\rsrc.php\yM\r\ys-5GPT4pwS.svg
+Content Type: image/svg+xml
+
+Uri: https://static.whatsapp.net/rsrc.php/yN/r/fQtw5exLIdT.woff2
+File Name: C:\Downloaded Web Sites\madamcutie.com\rsrc.php\yN\r\fQtw5exLIdT.woff2
+Content Type: font/woff2
+
+Uri: https://static.whatsapp.net/rsrc.php/yv/r/-r3j-x8ZnM7.svg
+File Name: C:\Downloaded Web Sites\madamcutie.com\rsrc.php\yv\r\-r3j-x8ZnM7.svg
+Content Type: image/svg+xml
+
+Uri: https://web.whatsapp.com/
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-5.htm
+Content Type: text/html
+
+Uri: https://web.whatsapp.com/send/?phone=919911852113&text&type=phone_number&app_absent=0
+File Name: C:\Downloaded Web Sites\madamcutie.com\send\index-2.htm
+Content Type: text/html
+
+Uri: https://whatsappbusiness.com/
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-4.htm
+Content Type: text/html
+
+Uri: https://www.facebook.com/help/instagram/261704639352628
+File Name: C:\Downloaded Web Sites\madamcutie.com\help\instagram\261704639352628.html
+Content Type: text/html
+
+Uri: https://www.facebook.com/WhatsApp/
+File Name: C:\Downloaded Web Sites\madamcutie.com\WhatsApp\index-1.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-6.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/accounts/emailsignup/
+File Name: C:\Downloaded Web Sites\madamcutie.com\accounts\emailsignup\index.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/accounts/login/?next=%2Fmadamcutie.co%3Figsh%3DOGcwdmFxYTBuZGhv%26utm_source%3Dqr&source=desktop_nav
+File Name: C:\Downloaded Web Sites\madamcutie.com\accounts\login\index.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/accounts/login/?next=https:%2F%2Fwww.instagram.com%2Faccounts%2Fmeta_verified%2F%3Fentrypoint%3Dweb_footer%26__coig_login%3D1
+File Name: C:\Downloaded Web Sites\madamcutie.com\accounts\login\index-1.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/data/manifest.json
+File Name: C:\Downloaded Web Sites\madamcutie.com\data\manifest.json
+Content Type: application/json
+
+Uri: https://www.instagram.com/explore/locations/
+File Name: C:\Downloaded Web Sites\madamcutie.com\explore\locations\index.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/madamcutie.co/
+File Name: C:\Downloaded Web Sites\madamcutie.com\madamcutie.co\index.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/madamcutie.co?igsh=OGcwdmFxYTBuZGhv&utm_source=qr
+File Name: C:\Downloaded Web Sites\madamcutie.com\madamcutie.co.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/madamcutie.co?igsh=OGcwdmFxYTBuZGhv&utm_source=qr&hl=af
+File Name: C:\Downloaded Web Sites\madamcutie.com\madamcutie.co-12.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/madamcutie.co?igsh=OGcwdmFxYTBuZGhv&utm_source=qr&hl=am-et
+File Name: C:\Downloaded Web Sites\madamcutie.com\madamcutie.co-56.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/madamcutie.co?igsh=OGcwdmFxYTBuZGhv&utm_source=qr&hl=ar
+File Name: C:\Downloaded Web Sites\madamcutie.com\madamcutie.co-51.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/madamcutie.co?igsh=OGcwdmFxYTBuZGhv&utm_source=qr&hl=bg
+File Name: C:\Downloaded Web Sites\madamcutie.com\madamcutie.co-42.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/madamcutie.co?igsh=OGcwdmFxYTBuZGhv&utm_source=qr&hl=bn
+File Name: C:\Downloaded Web Sites\madamcutie.com\madamcutie.co-31.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/madamcutie.co?igsh=OGcwdmFxYTBuZGhv&utm_source=qr&hl=cs
+File Name: C:\Downloaded Web Sites\madamcutie.com\madamcutie.co-13.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/madamcutie.co?igsh=OGcwdmFxYTBuZGhv&utm_source=qr&hl=da
+File Name: C:\Downloaded Web Sites\madamcutie.com\madamcutie.co-14.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/madamcutie.co?igsh=OGcwdmFxYTBuZGhv&utm_source=qr&hl=de
+File Name: C:\Downloaded Web Sites\madamcutie.com\madamcutie.co-4.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/madamcutie.co?igsh=OGcwdmFxYTBuZGhv&utm_source=qr&hl=el
+File Name: C:\Downloaded Web Sites\madamcutie.com\madamcutie.co-15.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/madamcutie.co?igsh=OGcwdmFxYTBuZGhv&utm_source=qr&hl=en
+File Name: C:\Downloaded Web Sites\madamcutie.com\madamcutie.co-1.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/madamcutie.co?igsh=OGcwdmFxYTBuZGhv&utm_source=qr&hl=en-gb
+File Name: C:\Downloaded Web Sites\madamcutie.com\madamcutie.co-53.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/madamcutie.co?igsh=OGcwdmFxYTBuZGhv&utm_source=qr&hl=es
+File Name: C:\Downloaded Web Sites\madamcutie.com\madamcutie.co-5.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/madamcutie.co?igsh=OGcwdmFxYTBuZGhv&utm_source=qr&hl=es-la
+File Name: C:\Downloaded Web Sites\madamcutie.com\madamcutie.co-48.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/madamcutie.co?igsh=OGcwdmFxYTBuZGhv&utm_source=qr&hl=fa
+File Name: C:\Downloaded Web Sites\madamcutie.com\madamcutie.co-50.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/madamcutie.co?igsh=OGcwdmFxYTBuZGhv&utm_source=qr&hl=fi
+File Name: C:\Downloaded Web Sites\madamcutie.com\madamcutie.co-16.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/madamcutie.co?igsh=OGcwdmFxYTBuZGhv&utm_source=qr&hl=fr
+File Name: C:\Downloaded Web Sites\madamcutie.com\madamcutie.co-2.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/madamcutie.co?igsh=OGcwdmFxYTBuZGhv&utm_source=qr&hl=fr-ca
+File Name: C:\Downloaded Web Sites\madamcutie.com\madamcutie.co-43.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/madamcutie.co?igsh=OGcwdmFxYTBuZGhv&utm_source=qr&hl=gu
+File Name: C:\Downloaded Web Sites\madamcutie.com\madamcutie.co-32.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/madamcutie.co?igsh=OGcwdmFxYTBuZGhv&utm_source=qr&hl=ha-ng
+File Name: C:\Downloaded Web Sites\madamcutie.com\madamcutie.co-55.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/madamcutie.co?igsh=OGcwdmFxYTBuZGhv&utm_source=qr&hl=he
+File Name: C:\Downloaded Web Sites\madamcutie.com\madamcutie.co-49.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/madamcutie.co?igsh=OGcwdmFxYTBuZGhv&utm_source=qr&hl=hi
+File Name: C:\Downloaded Web Sites\madamcutie.com\madamcutie.co-30.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/madamcutie.co?igsh=OGcwdmFxYTBuZGhv&utm_source=qr&hl=hr
+File Name: C:\Downloaded Web Sites\madamcutie.com\madamcutie.co-17.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/madamcutie.co?igsh=OGcwdmFxYTBuZGhv&utm_source=qr&hl=hu
+File Name: C:\Downloaded Web Sites\madamcutie.com\madamcutie.co-18.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/madamcutie.co?igsh=OGcwdmFxYTBuZGhv&utm_source=qr&hl=id
+File Name: C:\Downloaded Web Sites\madamcutie.com\madamcutie.co-19.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/madamcutie.co?igsh=OGcwdmFxYTBuZGhv&utm_source=qr&hl=it
+File Name: C:\Downloaded Web Sites\madamcutie.com\madamcutie.co-3.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/madamcutie.co?igsh=OGcwdmFxYTBuZGhv&utm_source=qr&hl=ja
+File Name: C:\Downloaded Web Sites\madamcutie.com\madamcutie.co-8.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/madamcutie.co?igsh=OGcwdmFxYTBuZGhv&utm_source=qr&hl=kn
+File Name: C:\Downloaded Web Sites\madamcutie.com\madamcutie.co-33.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/madamcutie.co?igsh=OGcwdmFxYTBuZGhv&utm_source=qr&hl=ko
+File Name: C:\Downloaded Web Sites\madamcutie.com\madamcutie.co-9.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/madamcutie.co?igsh=OGcwdmFxYTBuZGhv&utm_source=qr&hl=ml
+File Name: C:\Downloaded Web Sites\madamcutie.com\madamcutie.co-34.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/madamcutie.co?igsh=OGcwdmFxYTBuZGhv&utm_source=qr&hl=mr
+File Name: C:\Downloaded Web Sites\madamcutie.com\madamcutie.co-35.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/madamcutie.co?igsh=OGcwdmFxYTBuZGhv&utm_source=qr&hl=ms
+File Name: C:\Downloaded Web Sites\madamcutie.com\madamcutie.co-20.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/madamcutie.co?igsh=OGcwdmFxYTBuZGhv&utm_source=qr&hl=nb
+File Name: C:\Downloaded Web Sites\madamcutie.com\madamcutie.co-21.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/madamcutie.co?igsh=OGcwdmFxYTBuZGhv&utm_source=qr&hl=ne
+File Name: C:\Downloaded Web Sites\madamcutie.com\madamcutie.co-39.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/madamcutie.co?igsh=OGcwdmFxYTBuZGhv&utm_source=qr&hl=nl
+File Name: C:\Downloaded Web Sites\madamcutie.com\madamcutie.co-22.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/madamcutie.co?igsh=OGcwdmFxYTBuZGhv&utm_source=qr&hl=om-et
+File Name: C:\Downloaded Web Sites\madamcutie.com\madamcutie.co-57.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/madamcutie.co?igsh=OGcwdmFxYTBuZGhv&utm_source=qr&hl=pa
+File Name: C:\Downloaded Web Sites\madamcutie.com\madamcutie.co-36.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/madamcutie.co?igsh=OGcwdmFxYTBuZGhv&utm_source=qr&hl=pl
+File Name: C:\Downloaded Web Sites\madamcutie.com\madamcutie.co-23.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/madamcutie.co?igsh=OGcwdmFxYTBuZGhv&utm_source=qr&hl=pt
+File Name: C:\Downloaded Web Sites\madamcutie.com\madamcutie.co-10.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/madamcutie.co?igsh=OGcwdmFxYTBuZGhv&utm_source=qr&hl=pt-br
+File Name: C:\Downloaded Web Sites\madamcutie.com\madamcutie.co-11.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/madamcutie.co?igsh=OGcwdmFxYTBuZGhv&utm_source=qr&hl=ro
+File Name: C:\Downloaded Web Sites\madamcutie.com\madamcutie.co-44.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/madamcutie.co?igsh=OGcwdmFxYTBuZGhv&utm_source=qr&hl=ru
+File Name: C:\Downloaded Web Sites\madamcutie.com\madamcutie.co-24.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/madamcutie.co?igsh=OGcwdmFxYTBuZGhv&utm_source=qr&hl=si
+File Name: C:\Downloaded Web Sites\madamcutie.com\madamcutie.co-40.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/madamcutie.co?igsh=OGcwdmFxYTBuZGhv&utm_source=qr&hl=sk
+File Name: C:\Downloaded Web Sites\madamcutie.com\madamcutie.co-25.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/madamcutie.co?igsh=OGcwdmFxYTBuZGhv&utm_source=qr&hl=sr
+File Name: C:\Downloaded Web Sites\madamcutie.com\madamcutie.co-45.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/madamcutie.co?igsh=OGcwdmFxYTBuZGhv&utm_source=qr&hl=sv
+File Name: C:\Downloaded Web Sites\madamcutie.com\madamcutie.co-26.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/madamcutie.co?igsh=OGcwdmFxYTBuZGhv&utm_source=qr&hl=sw-ke
+File Name: C:\Downloaded Web Sites\madamcutie.com\madamcutie.co-54.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/madamcutie.co?igsh=OGcwdmFxYTBuZGhv&utm_source=qr&hl=ta
+File Name: C:\Downloaded Web Sites\madamcutie.com\madamcutie.co-37.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/madamcutie.co?igsh=OGcwdmFxYTBuZGhv&utm_source=qr&hl=te
+File Name: C:\Downloaded Web Sites\madamcutie.com\madamcutie.co-38.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/madamcutie.co?igsh=OGcwdmFxYTBuZGhv&utm_source=qr&hl=th
+File Name: C:\Downloaded Web Sites\madamcutie.com\madamcutie.co-27.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/madamcutie.co?igsh=OGcwdmFxYTBuZGhv&utm_source=qr&hl=tl
+File Name: C:\Downloaded Web Sites\madamcutie.com\madamcutie.co-28.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/madamcutie.co?igsh=OGcwdmFxYTBuZGhv&utm_source=qr&hl=tr
+File Name: C:\Downloaded Web Sites\madamcutie.com\madamcutie.co-29.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/madamcutie.co?igsh=OGcwdmFxYTBuZGhv&utm_source=qr&hl=uk
+File Name: C:\Downloaded Web Sites\madamcutie.com\madamcutie.co-46.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/madamcutie.co?igsh=OGcwdmFxYTBuZGhv&utm_source=qr&hl=ur
+File Name: C:\Downloaded Web Sites\madamcutie.com\madamcutie.co-52.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/madamcutie.co?igsh=OGcwdmFxYTBuZGhv&utm_source=qr&hl=vi
+File Name: C:\Downloaded Web Sites\madamcutie.com\madamcutie.co-41.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/madamcutie.co?igsh=OGcwdmFxYTBuZGhv&utm_source=qr&hl=zh-cn
+File Name: C:\Downloaded Web Sites\madamcutie.com\madamcutie.co-6.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/madamcutie.co?igsh=OGcwdmFxYTBuZGhv&utm_source=qr&hl=zh-hk
+File Name: C:\Downloaded Web Sites\madamcutie.com\madamcutie.co-47.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/madamcutie.co?igsh=OGcwdmFxYTBuZGhv&utm_source=qr&hl=zh-tw
+File Name: C:\Downloaded Web Sites\madamcutie.com\madamcutie.co-7.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/popular/
+File Name: C:\Downloaded Web Sites\madamcutie.com\popular\index.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/web/lite/
+File Name: C:\Downloaded Web Sites\madamcutie.com\web\lite\index.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/whatsapp/?hl=en
+File Name: C:\Downloaded Web Sites\madamcutie.com\whatsapp\index.htm
+Content Type: text/html
+
+Uri: https://www.meta.com/brand/resources/whatsapp/whatsapp-brand/?utm_source=about.meta.com&utm_medium=redirect
+File Name: C:\Downloaded Web Sites\madamcutie.com\brand\resources\whatsapp\whatsapp-brand\index.htm
+Content Type: text/html
+
+Uri: https://www.meta.com/en-gb/about/?utm_source=about.meta.com&utm_medium=redirect
+File Name: C:\Downloaded Web Sites\madamcutie.com\en-gb\about\index.htm
+Content Type: text/html
+
+Uri: https://www.metacareers.com/jobsearch/?divisions[0]=WhatsApp
+File Name: C:\Downloaded Web Sites\madamcutie.com\jobsearch\index.htm
+Content Type: text/html
+
+Uri: https://www.threads.com/
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-9.htm
+Content Type: text/html
+
+Uri: https://www.threads.com/@whatsapp
+File Name: C:\Downloaded Web Sites\madamcutie.com\@whatsapp.html
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-1.htm
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/?lang=af
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-11.htm
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/?lang=ar
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-12.htm
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/?lang=az
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-13.htm
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/?lang=bg
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-14.htm
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/?lang=bn
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-15.htm
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/?lang=ca
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-16.htm
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/?lang=cs
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-17.htm
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/?lang=da
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-18.htm
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/?lang=de
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-19.htm
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/?lang=el
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-20.htm
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/?lang=en
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-70.htm
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/?lang=es
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-21.htm
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/?lang=et
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-22.htm
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/?lang=fa
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-23.htm
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/?lang=fi
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-24.htm
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/?lang=fil
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-61.htm
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/?lang=fr
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-25.htm
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/?lang=ga
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-26.htm
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/?lang=gu
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-27.htm
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/?lang=he
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-28.htm
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/?lang=hi
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-29.htm
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/?lang=hr
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-30.htm
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/?lang=hu
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-31.htm
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/?lang=id
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-32.htm
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/?lang=it
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-33.htm
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/?lang=ja
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-34.htm
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/?lang=kk
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-35.htm
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/?lang=kn
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-36.htm
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/?lang=ko
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-37.htm
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/?lang=lt
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-38.htm
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/?lang=lv
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-39.htm
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/?lang=mk
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-40.htm
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/?lang=ml
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-41.htm
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/?lang=mr
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-42.htm
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/?lang=ms
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-43.htm
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/?lang=nb
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-44.htm
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/?lang=nl
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-45.htm
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/?lang=pa
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-46.htm
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/?lang=pl
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-47.htm
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/?lang=pt
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-48.htm
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/?lang=pt-pt
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-49.htm
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/?lang=ro
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-50.htm
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/?lang=ru
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-51.htm
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/?lang=sk
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-52.htm
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/?lang=sl
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-53.htm
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/?lang=sq
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-54.htm
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/?lang=sr
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-55.htm
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/?lang=sv
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-56.htm
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/?lang=sw
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-57.htm
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/?lang=ta
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-58.htm
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/?lang=te
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-59.htm
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/?lang=th
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-60.htm
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/?lang=tl
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-71.htm
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/?lang=tr
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-62.htm
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/?lang=uk
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-63.htm
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/?lang=ur
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-64.htm
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/?lang=uz
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-65.htm
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/?lang=vi
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-66.htm
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/?lang=zh
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-67.htm
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/?lang=zh-hk
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-68.htm
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/?lang=zh-tw
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-69.htm
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/?_fb_noscript=1
+File Name: C:\Downloaded Web Sites\madamcutie.com\index-10.htm
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/about
+File Name: C:\Downloaded Web Sites\madamcutie.com\about.html
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/calling
+File Name: C:\Downloaded Web Sites\madamcutie.com\calling.html
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/channels
+File Name: C:\Downloaded Web Sites\madamcutie.com\channels.html
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/contact
+File Name: C:\Downloaded Web Sites\madamcutie.com\contact.html
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/data/manifest.json
+File Name: C:\Downloaded Web Sites\madamcutie.com\data\manifest-1.json
+Content Type: application/json
+
+Uri: https://www.whatsapp.com/download
+File Name: C:\Downloaded Web Sites\madamcutie.com\download.html
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/download/desktop
+File Name: C:\Downloaded Web Sites\madamcutie.com\download\desktop.html
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/download/mobile
+File Name: C:\Downloaded Web Sites\madamcutie.com\download\mobile.html
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/download/tablet
+File Name: C:\Downloaded Web Sites\madamcutie.com\download\tablet.html
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/groups
+File Name: C:\Downloaded Web Sites\madamcutie.com\groups.html
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/legal/
+File Name: C:\Downloaded Web Sites\madamcutie.com\legal\index.htm
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/messaging
+File Name: C:\Downloaded Web Sites\madamcutie.com\messaging.html
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/meta-ai
+File Name: C:\Downloaded Web Sites\madamcutie.com\meta-ai.html
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/parentalcontrols
+File Name: C:\Downloaded Web Sites\madamcutie.com\parentalcontrols.html
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/privacy
+File Name: C:\Downloaded Web Sites\madamcutie.com\privacy.html
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/security
+File Name: C:\Downloaded Web Sites\madamcutie.com\security.html
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/security/advisories
+File Name: C:\Downloaded Web Sites\madamcutie.com\security\advisories.html
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/sitemap
+File Name: C:\Downloaded Web Sites\madamcutie.com\sitemap.html
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/status
+File Name: C:\Downloaded Web Sites\madamcutie.com\status.html
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/whatsapp-plus
+File Name: C:\Downloaded Web Sites\madamcutie.com\whatsapp-plus.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/channel/UCAuerig2N-RZWJT8x75V9yw
+File Name: C:\Downloaded Web Sites\madamcutie.com\channel\UCAuerig2N-RZWJT8x75V9yw.html
+Content Type: text/html
+
+Uri: https://x.com/whatsapp
+File Name: C:\Downloaded Web Sites\madamcutie.com\whatsapp.html
+Content Type: text/html
+

@@ -1,0 +1,22 @@
+{
+  "name": "mahira-select",
+  "version": "1.0.0",
+  "description": "High-fidelity reconstruction of Mahira Select — Indian Luxury Heritage Fashion",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "test": "node test_validation.js",
+    "build": "node test_validation.js"
+  },
+  "keywords": [
+    "mahira-select",
+    "luxury-fashion",
+    "gsap",
+    "vanilla-js",
+    "editorial"
+  ],
+  "author": "Antigravity Engineering",
+  "license": "UNLICENSED",
+  "private": true
+}
