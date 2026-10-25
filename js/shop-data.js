@@ -46,16 +46,16 @@
          half. `focal` keeps the subject in frame as the banner reflows. */
       groups: [
         { title: 'Ethnic', subs: [
-          { slug: 'sarees',      label: 'Sarees',       img: A + 's3-sarees.jpg?v=5',  band: A + 's2-card-women.jpg?v=2', focal: '50% 32%' },
-          { slug: 'kurta-sets',  label: 'Kurta Sets',   img: A + 's3-kurta.jpg?v=5',   band: A + 's5-kurta.jpg?v=1',      focal: '50% 38%' },
-          { slug: 'anarkali',    label: 'Anarkali',     img: A + 's5-p1.jpg?v=1',      band: A + 's3-bg.jpg?v=1',         focal: '52% 34%' },
-          { slug: 'lehengas',    label: 'Lehengas',     img: A + 's4-p2.jpg?v=1',      band: A + 's5-room.jpg?v=1',       focal: '48% 40%' },
-          { slug: 'co-ord-sets', label: 'Co-ord Sets',  img: A + 's4-p3.jpg?v=1',      band: A + 's5-p3.jpg?v=1',         focal: '50% 40%' },
-          { slug: 'dresses',     label: 'Dresses',      img: A + 's3-dresses.jpg?v=5', band: A + 's2-room.jpg?v=4',       focal: '54% 42%' }
+          { slug: 'sarees',      label: 'Corset Blouses',       img: A + 's3-sarees.jpg?v=5',  band: A + 's2-card-women.jpg?v=2', focal: '50% 32%' },
+          { slug: 'kurta-sets',  label: 'Designer Blouses',   img: A + 's3-kurta.jpg?v=5',   band: A + 's5-kurta.jpg?v=1',      focal: '50% 38%' },
+          { slug: 'anarkali',    label: 'Festive Blouse Sets',     img: A + 's5-p1.jpg?v=1',      band: A + 's3-bg.jpg?v=1',         focal: '52% 34%' },
+          { slug: 'lehengas',    label: 'Bridal Corsets',     img: A + 's4-p2.jpg?v=1',      band: A + 's5-room.jpg?v=1',       focal: '48% 40%' },
+          { slug: 'co-ord-sets', label: 'Party Co-ord Sets',  img: A + 's4-p3.jpg?v=1',      band: A + 's5-p3.jpg?v=1',         focal: '50% 40%' },
+          { slug: 'dresses',     label: 'Party Wear Dresses',      img: A + 's3-dresses.jpg?v=5', band: A + 's2-room.jpg?v=4',       focal: '54% 42%' }
         ]},
         { title: 'Western', subs: [
-          { slug: 'tops',        label: 'Tops',         img: A + 's5-p4.jpg?v=1',      band: A + 's5-printed.jpg?v=1',    focal: '50% 40%' },
-          { slug: 'trousers',    label: 'Trousers',     img: A + 's4-p1.jpg?v=1',      band: A + 's5-p2.jpg?v=1',         focal: '50% 42%' }
+          { slug: 'tops',        label: 'Designer Crop Tops',         img: A + 's5-p4.jpg?v=1',      band: A + 's5-printed.jpg?v=1',    focal: '50% 40%' },
+          { slug: 'trousers',    label: 'Evening Trousers',     img: A + 's4-p1.jpg?v=1',      band: A + 's5-p2.jpg?v=1',         focal: '50% 42%' }
         ]}
       ]
     },
@@ -70,10 +70,10 @@
       heroPos: '38% 50%',
       groups: [
         { title: 'The Collections', subs: [
-          { slug: 'kalamkari-sarees',     label: 'Kalamkari Sarees',   img: A + 's4-p1.jpg?v=1',  band: A + 's2-card-kala.jpg?v=2', focal: '50% 40%' },
-          { slug: 'kalamkari-dress-sets', label: 'Dress Sets',         img: A + 's4-p2.jpg?v=1',  band: A + 's4-room.jpg?v=1',      focal: '42% 42%' },
-          { slug: 'kalamkari-fabric',     label: 'Fabric',             img: A + 's4-p3.jpg?v=1',  band: A + 's5-printed.jpg?v=1',   focal: '50% 44%' },
-          { slug: 'kalamkari-dupattas',   label: 'Dupattas',           img: A + 's5-p4.jpg?v=1',  band: A + 's5-p3.jpg?v=1',        focal: '50% 40%' }
+          { slug: 'kalamkari-sarees',     label: 'Artisanal Corset Blouses',   img: A + 's4-p1.jpg?v=1',  band: A + 's2-card-kala.jpg?v=2', focal: '50% 40%' },
+          { slug: 'kalamkari-dress-sets', label: 'Signature Bustier Sets',         img: A + 's4-p2.jpg?v=1',  band: A + 's4-room.jpg?v=1',      focal: '42% 42%' },
+          { slug: 'kalamkari-fabric',     label: 'Couture Fabrics',             img: A + 's4-p3.jpg?v=1',  band: A + 's5-printed.jpg?v=1',   focal: '50% 44%' },
+          { slug: 'kalamkari-dupattas',   label: 'Embellished Dupattas',           img: A + 's5-p4.jpg?v=1',  band: A + 's5-p3.jpg?v=1',        focal: '50% 40%' }
         ]}
       ]
     }
@@ -91,36 +91,36 @@
 
   var PRODUCTS = [
     /* ---- Women · Sarees ---- */
-    p({ id: 'ms-101', cat: 'women', sub: 'sarees', title: 'Chanderi Silk Saree',
+    p({ id: 'ms-101', cat: 'women', sub: 'sarees', title: 'Handcrafted Mirror-Work Corset Blouse',
         price: 12500, mrp: 15600, fabric: 'Chanderi',
-        desc: 'A graceful Chanderi silk saree with intricate traditional motifs, woven on a feather-light body that drapes without weight. Finished with a fine zari border.',
+        desc: 'An exquisite gold mirror-work ethnic corset blouse, precision sculpted with traditional Indian hand-embroidery and back tie-up tassel detailing.',
         details: 'Chanderi silk · 5.5m with an unstitched 0.8m blouse piece · Handloom woven in Madhya Pradesh · Zari border',
         colors: [C.olive, C.champagne, C.maroon], images: [A + 's3-sarees.jpg?v=5', A + 's4-p1.jpg?v=1', A + 's5-p1.jpg?v=1'] }),
-    p({ id: 'ms-102', cat: 'women', sub: 'sarees', title: 'Kanchi Border Saree',
+    p({ id: 'ms-102', cat: 'women', sub: 'sarees', title: 'Emerald Sequin Designer Blouse',
         price: 14800, mrp: 18500, fabric: 'Silk', rating: 4.8, reviews: 132,
-        desc: 'A Kanchipuram-inspired silk saree with a contrast temple border, the pallu carrying a broad band of antique zari.',
+        desc: 'A striking emerald green designer corset blouse adorned with all-over intricate sequin embellishments and flattering sweetheart neckline.',
         details: 'Pure mulberry silk · 6.3m with blouse piece · Contrast temple border · Handwoven',
         colors: [C.maroon, C.forest, C.gold], images: [A + 's4-p1.jpg?v=1', A + 's3-sarees.jpg?v=5', A + 's4-editorial.jpg?v=2'] }),
-    p({ id: 'ms-103', cat: 'women', sub: 'sarees', title: 'Handloom Cotton Saree',
+    p({ id: 'ms-103', cat: 'women', sub: 'sarees', title: 'Silver Glamour Sequin Bustier',
         price: 9800, mrp: 11500, fabric: 'Cotton', rating: 4.5, reviews: 61,
-        desc: 'An everyday handloom cotton saree with a soft, breathable fall and a quiet striped border — made for long days worn easily.',
+        desc: 'A radiant silver sequined bustier crop top, tailored to perfection with structural boning for an effortlessly glamorous evening look.',
         details: 'Handloom cotton · 5.5m with blouse piece · Natural dyes · Woven in Andhra Pradesh',
         colors: [C.ivory, C.rust, C.indigo], images: [A + 's5-p1.jpg?v=1', A + 's3-sarees.jpg?v=5'] }),
-    p({ id: 'ms-104', cat: 'women', sub: 'sarees', title: 'Silk Blend Saree',
+    p({ id: 'ms-104', cat: 'women', sub: 'sarees', title: 'Crimson Velvet Embroidered Blouse',
         price: 16200, mrp: 19900, fabric: 'Silk', rating: 4.7, reviews: 98,
-        desc: 'A silk-blend saree with a subtle sheen and a deep woven border, cut for occasion wear that still moves easily.',
+        desc: 'A rich crimson red embroidered party blouse featuring luxury zardozi work and sweetheart bustier silhouette.',
         details: 'Silk blend · 5.5m with blouse piece · Woven border · Dry clean only',
         colors: [C.forest, C.walnut, C.rose], images: [A + 's4-editorial.jpg?v=2', A + 's4-p2.jpg?v=1'] }),
 
     /* ---- Women · Kurta Sets ---- */
-    p({ id: 'ms-201', cat: 'women', sub: 'kurta-sets', title: 'Chikankari Kurta Set',
+    p({ id: 'ms-201', cat: 'women', sub: 'kurta-sets', title: 'Chevron Geometric Party Blouse',
         price: 8900, mrp: 11200, fabric: 'Cotton', sizes: SUIT_SIZES, rating: 4.7, reviews: 145,
-        desc: 'Hand-embroidered chikankari on soft cotton, cut as a straight kurta with matching palazzo and a fine mul dupatta.',
+        desc: 'A modern black and silver geometric chevron patterned corset blouse, perfect for statement festive and cocktail ensembles.',
         details: 'Cotton mul · Kurta, palazzo and dupatta · Hand chikankari from Lucknow',
         colors: [C.ivory, C.rose, C.olive], images: [A + 's3-kurta.jpg?v=5', A + 's5-p4.jpg?v=1'] }),
-    p({ id: 'ms-202', cat: 'women', sub: 'kurta-sets', title: 'Printed Cotton Kurta Set',
+    p({ id: 'ms-202', cat: 'women', sub: 'kurta-sets', title: 'Gold Embellished Designer Blouse',
         price: 6400, mrp: 7800, fabric: 'Cotton', sizes: SUIT_SIZES, rating: 4.4, reviews: 52,
-        desc: 'A block-printed cotton set for the working week — an easy A-line kurta, straight trousers and a light cotton dupatta.',
+        desc: 'A luxurious gold designer blouse with delicate thread embroidery and refined structural cut for modern queens.',
         details: 'Block-printed cotton · Kurta, trousers and dupatta · Machine wash cold',
         colors: [C.indigo, C.rust, C.ivory], images: [A + 's5-p4.jpg?v=1', A + 's3-kurta.jpg?v=5'] }),
 
@@ -132,9 +132,9 @@
         colors: [C.forest, C.maroon, C.gold], images: [A + 's5-p1.jpg?v=1', A + 's4-editorial.jpg?v=2'] }),
 
     /* ---- Women · Lehengas ---- */
-    p({ id: 'ms-401', cat: 'women', sub: 'lehengas', title: 'Occasion Lehenga Set',
+    p({ id: 'ms-401', cat: 'women', sub: 'lehengas', title: 'Pastel Beaded Couture Corset Set',
         price: 32500, mrp: 41000, fabric: 'Silk', sizes: SUIT_SIZES, rating: 4.9, reviews: 41,
-        desc: 'A celebration lehenga with a hand-worked border, a structured blouse and a sheer dupatta finished with a scalloped edge.',
+        desc: 'A couture pastel hand-beaded corset blouse paired with matching flared brocade skirt, featuring delicate pearl and stone accents.',
         details: 'Raw silk · Lehenga, blouse and dupatta · Hand embroidery · Made to order in 3 weeks',
         colors: [C.maroon, C.forest, C.champagne], images: [A + 's4-p2.jpg?v=1', A + 's5-p1.jpg?v=1'] }),
 
