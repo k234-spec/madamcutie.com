@@ -1,4 +1,4 @@
-﻿/* ============================================================
+/* ============================================================
    MAHIRA SELECT — cinematic choreography
    One continuous sequence: darkness → golden light → the M is
    drawn → the ring is traced → the crest blooms → MAHIRA →
@@ -49,6 +49,7 @@
 
   function buildLogo(svg) {
     if (!svg) return { ring: null, mStroke: null, sheenRect: null, sweepRect: null, sheen: null };
+    svg.innerHTML = '';
     var defs = el('defs', {}, svg);
     goldDefs(defs, 'lgGold');
     var clip = el('clipPath', { id: 'lgSheenClip' }, defs);
@@ -1047,20 +1048,8 @@
      ============================================================ */
   function buildFooterLogo(svg) {
     if (!svg) return;
-    var defs = el('defs', {}, svg);
-    goldDefs(defs, 'fgGold');
-    var g = el('g', {}, svg);
-    el('circle', { cx: EC.x, cy: EC.y, r: D.ring.r, fill: 'none', stroke: 'url(#fgGold)', 'stroke-width': D.ring.w + 1 }, g);
-    el('path', { d: D.m.d, fill: 'url(#fgGold)', 'fill-rule': 'evenodd' }, g);
-    ['n', 'e', 's', 'w'].forEach(function (k) {
-      if (D.diamonds[k]) el('path', { d: D.diamonds[k].d, fill: 'url(#fgGold)', 'fill-rule': 'evenodd' }, g);
-    });
-    ornaments.forEach(function (o) { el('path', { d: o.d, fill: 'url(#fgGold)', 'fill-rule': 'evenodd' }, g); });
-    D.mahira.forEach(function (l) { el('path', { d: l.d, fill: 'url(#fgGold)', 'fill-rule': 'evenodd' }, g); });
-    D.select.letters.forEach(function (l) { el('path', { d: l.d, fill: 'url(#fgGold)', 'fill-rule': 'evenodd' }, g); });
-    D.select.lines.forEach(function (l) {
-      el('rect', { x: l.x, y: l.y, width: l.w, height: Math.max(l.h, 6), fill: 'url(#fgGold)' }, g);
-    });
+    svg.innerHTML = '';
+    buildLogo(svg);
   }
   buildFooterLogo($('#footLogo'));
 
