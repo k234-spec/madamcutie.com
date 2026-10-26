@@ -183,14 +183,18 @@
 
   function rootPanel() {
     var p = mk('div', 'mn-panel');
-    var rows = [['Home', 'index.html#top', null], ['Women', 'category.html?c=women', 'women'],
-                ['Kalakaari', 'category.html?c=kalakaari', 'kalakaari'],
-                ['New Arrivals', 'shop.html?c=women&s=sarees', null],
-                ['Best Sellers', 'index.html#best', null], ['Our Story', 'index.html#storyEd', null]];
+    var rows = [
+      ['Home', 'index.html#top', null],
+      ['Corset Blouses', 'shop.html?category=Corset%20Blouse', null],
+      ['Designer Blouses', 'shop.html?category=Designer%20Blouse', null],
+      ['All Collections', 'shop.html', null],
+      ['Best Sellers', 'index.html#best', null],
+      ['Our Story', 'index.html#storyEd', null]
+    ];
     rows.forEach(function (r) {
-      var n;
-      if (r[2]) { n = mk('button', 'mn-item mn-l0', esc(r[0]) + CHEV); n.addEventListener('click', function () { push(r[2], r[0]); }); }
-      else { n = mk('a', 'mn-item mn-l0', esc(r[0])); n.href = r[1]; n.addEventListener('click', closeNav); }
+      var n = mk('a', 'mn-item mn-l0', esc(r[0]));
+      n.href = r[1];
+      n.addEventListener('click', closeNav);
       p.appendChild(n);
     });
     return p;
@@ -385,40 +389,79 @@
 
   /* ---------- 3 · PRODUCT LISTING ---------- */
   function viewShop() {
-    var catKey = qs('c') || 'women';
-    var cat = S.categories[catKey] || S.categories.women;
-    var sub = qs('s');
-    var meta = sub ? S.subMeta(catKey, sub) : null;
-    var base = sub ? S.inSub(catKey, sub) : S.inCat(catKey);
+    var rawParam = qs('category') || qs('c') || qs('cat');
+    var subParam = qs('s') || qs('sub');
 
-    /* A subcategory the nav offers but the catalogue has not stocked yet must
-       not be a dead end — show the whole category and say why. */
-    var fellBack = false, askedFor = '';
-    if (sub && !base.length) {
-      fellBack = true;
-      askedFor = S.subLabel(catKey, sub);
-      if (askedFor === sub) {   /* not in the catalogue at all — tidy the slug */
-        askedFor = sub.replace(/-/g, ' ').replace(/\b\w/g, function (m) { return m.toUpperCase(); });
-      }
-      base = S.inCat(catKey);
-      meta = null;
+    var currentCat = 'all';
+    if (rawParam) {
+      var low = rawParam.toLowerCase();
+      if (low.includes('corset')) currentCat = 'Corset Blouse';
+      else if (low.includes('designer')) currentCat = 'Designer Blouse';
+    }
+    if (subParam) {
+      var sLow = subParam.toLowerCase();
+      if (sLow.includes('corset')) currentCat = 'Corset Blouse';
+      else if (sLow.includes('designer')) currentCat = 'Designer Blouse';
     }
 
-    document.title = (meta ? meta.label : cat.label) + ' — Mahira Select';
-    $('#bcCat').textContent = cat.label;
-    $('#bcCat').href = 'category.html?c=' + catKey;
-    $('#bcSub').textContent = meta ? meta.label : 'All';
-    $('#shTitle').textContent = meta ? meta.label : 'All ' + cat.label;
-    $('#shLine').textContent = fellBack
-      ? ('“' + askedFor + '” is not in the atelier yet — here is everything in ' + cat.label + '.')
-      : (meta ? ('A considered edit of ' + meta.label.toLowerCase() + ', made to be worn.') : cat.line);
-    /* prefer the landscape band plate; the portrait card crop is never used
-       here because a wide frame would show only a slice of it */
+    var base = S.products;
+    if (currentCat !== 'all') {
+      base = S.products.filter(function (p) { return p.category === currentCat; });
+    }
+
+    var pageTitle = currentCat === 'all' ? 'All Collections' : (currentCat + 's');
+    var pageLine = currentCat === 'Corset Blouse'
+      ? 'Intricately detailed with vibrant thread embroidery, traditional mirror work, and charm-accented cowrie shells.'
+      : (currentCat === 'Designer Blouse'
+        ? 'Glamorous backless cuts, all-over sequin embellishments, and luxury zardozi craftsmanship.'
+        : 'Explore our complete collection of handcrafted corset blouses and designer luxury apparel.');
+
+    document.title = pageTitle + ' — Madamcutie';
+    if ($('#bcCat')) { $('#bcCat').textContent = 'Collections'; $('#bcCat').href = 'shop.html'; }
+    if ($('#bcSub')) { $('#bcSub').textContent = currentCat === 'all' ? 'All Items' : currentCat; }
+    if ($('#shTitle')) { $('#shTitle').textContent = pageTitle; }
+    if ($('#shLine')) { $('#shLine').textContent = pageLine; }
+
     var bimg = $('#shBandImg');
     if (bimg) {
-      bimg.src = (meta && (meta.band || meta.img)) || cat.hero;
-      bimg.alt = (meta ? meta.label : cat.label);
-      bimg.style.objectPosition = (meta && meta.focal) || cat.heroPos || '50% 38%';
+      if (currentCat === 'Corset Blouse') {
+        bimg.src = 'assets/women-clean.jpg';
+        bimg.alt = 'Corset Blouses';
+        bimg.style.objectPosition = '50% 32%';
+      } else if (currentCat === 'Designer Blouse') {
+        bimg.src = 'assets/s4-room.jpg';
+        bimg.alt = 'Designer Blouses';
+        bimg.style.objectPosition = '50% 38%';
+      } else {
+        bimg.src = 'assets/s2-card-women.jpg';
+        bimg.alt = 'All Collections';
+        bimg.style.objectPosition = '50% 35%';
+      }
+    }
+
+    /* Category widget in sidebar */
+    var fCat = $('#fCategory');
+    if (fCat) {
+      var catOptions = [
+        { label: 'All Items', val: 'all', count: S.products.length },
+        { label: 'Corset Blouse', val: 'Corset Blouse', count: S.products.filter(function(p){ return p.category === 'Corset Blouse'; }).length },
+        { label: 'Designer Blouse', val: 'Designer Blouse', count: S.products.filter(function(p){ return p.category === 'Designer Blouse'; }).length }
+      ];
+      fCat.innerHTML = catOptions.map(function (co) {
+        var isAct = (currentCat === co.val);
+        return '<label class="f-check' + (isAct ? ' is-active' : '') + '">' +
+          '<input type="radio" name="catChoice" value="' + esc(co.val) + '"' + (isAct ? ' checked' : '') + '>' +
+          '<span class="f-box"><svg viewBox="0 0 14 11"><path d="M1 5.6 5 9.6 13 1.4"/></svg></span>' +
+          '<span>' + esc(co.label) + ' <small>(' + co.count + ')</small></span>' +
+        '</label>';
+      }).join('');
+
+      fCat.addEventListener('change', function (e) {
+        if (e.target.name === 'catChoice') {
+          var val = e.target.value;
+          location.href = val === 'all' ? 'shop.html' : ('shop.html?category=' + encodeURIComponent(val));
+        }
+      });
     }
 
     /* filter vocabulary comes from the products actually present */
@@ -508,14 +551,13 @@
 
   /* ---------- 4 · PRODUCT DETAIL ---------- */
   function viewProduct() {
-    var pr = S.byId(qs('p'));
-    if (!pr) { location.replace('category.html?c=women'); return; }
-    var cat = S.categories[pr.cat];
-    document.title = pr.title + ' — Mahira Select';
+    var pr = S.byId(qs('p') || qs('id'));
+    if (!pr) { location.replace('shop.html'); return; }
+    document.title = pr.title + ' — Madamcutie';
 
-    $('#bcCat').textContent = cat.label; $('#bcCat').href = 'category.html?c=' + pr.cat;
-    $('#bcSub').textContent = S.subLabel(pr.cat, pr.sub); $('#bcSub').href = 'shop.html?c=' + pr.cat + '&s=' + pr.sub;
-    $('#bcProd').textContent = pr.title;
+    if ($('#bcCat')) { $('#bcCat').textContent = 'Collections'; $('#bcCat').href = 'shop.html'; }
+    if ($('#bcSub')) { $('#bcSub').textContent = pr.category; $('#bcSub').href = 'shop.html?category=' + encodeURIComponent(pr.category); }
+    if ($('#bcProd')) { $('#bcProd').textContent = pr.title; }
 
     $('#pTitle').textContent = pr.title;
     $('#pRating').innerHTML = stars(pr.rating) + '<span class="p-rev">(' + pr.reviews + ' reviews)</span>';
