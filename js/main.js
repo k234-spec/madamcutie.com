@@ -60,12 +60,12 @@
 
     // Exact authentic Madamcutie logo with transparent background
     var img = el('image', {
-      href: 'assets/madamcutie-logo-transparent.png',
+      href: 'assets/madamcutie-logo.png',
       x: 180, y: 35, width: 1240, height: 1240,
       preserveAspectRatio: 'xMidYMid meet',
       class: 'lg-brand-img'
     }, gAll);
-    img.setAttributeNS('http://www.w3.org/1999/xlink', 'href', 'assets/madamcutie-logo-transparent.png');
+    img.setAttributeNS('http://www.w3.org/1999/xlink', 'href', 'assets/madamcutie-logo.png');
 
     // Target proxies matching GSAP selectors so intro animation runs smoothly with 0 errors
     var ring = el('circle', {
@@ -111,11 +111,11 @@
     svg.innerHTML = '';
     var g = el('g', {}, svg);
     var img = el('image', {
-      href: 'assets/madamcutie-logo-transparent.png',
+      href: 'assets/madamcutie-logo.png',
       x: 180, y: 35, width: 1240, height: 1240,
       preserveAspectRatio: 'xMidYMid meet'
     }, g);
-    img.setAttributeNS('http://www.w3.org/1999/xlink', 'href', 'assets/madamcutie-logo-transparent.png');
+    img.setAttributeNS('http://www.w3.org/1999/xlink', 'href', 'assets/madamcutie-logo.png');
   }
 
   var brandSvg = $('#brandLogo');
