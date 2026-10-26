@@ -48,63 +48,50 @@
   }
 
   function buildLogo(svg) {
+    if (!svg) return { ring: null, mStroke: null, sheenRect: null, sweepRect: null, sheen: null };
     var defs = el('defs', {}, svg);
     goldDefs(defs, 'lgGold');
-    var wmGold = el('linearGradient', { id: 'lgWmGold', gradientUnits: 'userSpaceOnUse', x1: 0, y1: 1000, x2: 1600, y2: 1180 }, defs);
-    [['0%', '#9a7226'], ['30%', '#d9b269'], ['50%', '#f2d896'], ['70%', '#d9b269'], ['100%', '#9a7226']].forEach(function (s) {
-      el('stop', { offset: s[0], 'stop-color': s[1] }, wmGold);
-    });
-    var selGold = el('linearGradient', { id: 'lgSelGold', gradientUnits: 'userSpaceOnUse', x1: 280, y1: 0, x2: 1320, y2: 0 }, defs);
-    [['0%', '#8a6420'], ['45%', '#e7c87f'], ['60%', '#f0d48c'], ['100%', '#8a6420']].forEach(function (s) {
-      el('stop', { offset: s[0], 'stop-color': s[1] }, selGold);
-    });
-    // clip for the specular sweep across the M
     var clip = el('clipPath', { id: 'lgSheenClip' }, defs);
     var clipRect = el('rect', { x: -420, y: 240, width: 260, height: 480, transform: 'skewX(-18)' }, clip);
 
     var gAll = el('g', { id: 'lgAll' }, svg);
     var gEmblem = el('g', { id: 'lgEmblem' }, gAll);
+
+    // Exact authentic Madamcutie logo with transparent background
+    var img = el('image', {
+      href: 'assets/madamcutie-logo-transparent.png',
+      x: 180, y: 35, width: 1240, height: 1240,
+      preserveAspectRatio: 'xMidYMid meet',
+      class: 'lg-brand-img'
+    }, gAll);
+    img.setAttributeNS('http://www.w3.org/1999/xlink', 'href', 'assets/madamcutie-logo-transparent.png');
+
+    // Target proxies matching GSAP selectors so intro animation runs smoothly with 0 errors
     var ring = el('circle', {
-      id: 'lgRing', cx: EC.x, cy: EC.y, r: D.ring.r,
-      fill: 'none', stroke: 'url(#lgGold)', 'stroke-width': D.ring.w + 1,
-      pathLength: 1000, 'stroke-dasharray': 1000, 'stroke-dashoffset': 1000,
-      transform: 'rotate(-90 ' + EC.x + ' ' + EC.y + ')'
+      id: 'lgRing', cx: EC.x, cy: EC.y, r: 1,
+      fill: 'none', stroke: 'none', 'stroke-width': 1,
+      pathLength: 1000, 'stroke-dasharray': 1000, 'stroke-dashoffset': 0
     }, gEmblem);
-    var mStroke = el('path', {
-      id: 'lgMStroke', d: D.m.d, fill: 'none',
-      stroke: '#f4d98d', 'stroke-width': 2.6, opacity: 0
-    }, gEmblem);
-    el('path', { id: 'lgMFill', d: D.m.d, fill: 'url(#lgGold)', 'fill-rule': 'evenodd' }, gEmblem);
-    el('path', {
-      id: 'lgMHot', d: D.m.d, fill: '#fff3cf', 'fill-rule': 'evenodd',
-      opacity: 0, 'clip-path': 'url(#lgSheenClip)'
-    }, gEmblem);
+    var mStroke = el('path', { id: 'lgMStroke', d: 'M0 0', fill: 'none', opacity: 0 }, gEmblem);
+    el('path', { id: 'lgMFill', d: 'M0 0', fill: 'none', opacity: 0 }, gEmblem);
+    el('path', { id: 'lgMHot', d: 'M0 0', fill: 'none', opacity: 0 }, gEmblem);
 
     var gDia = el('g', { id: 'lgDia' }, gEmblem);
     ['n', 's', 'e', 'w'].forEach(function (k) {
-      if (D.diamonds[k]) el('path', { d: D.diamonds[k].d, fill: 'url(#lgGold)', 'fill-rule': 'evenodd', 'class': 'lg-dia lg-dia-' + k }, gDia);
+      el('path', { d: 'M0 0', fill: 'none', class: 'lg-dia lg-dia-' + k }, gDia);
     });
     var gOrn = el('g', { id: 'lgOrn' }, gEmblem);
-    ornaments.forEach(function (o) {
-      el('path', { d: o.d, fill: 'url(#lgGold)', 'fill-rule': 'evenodd', 'class': 'lg-orn' }, gOrn);
-    });
+    el('path', { d: 'M0 0', fill: 'none', class: 'lg-orn' }, gOrn);
 
     var gMah = el('g', { id: 'lgMah' }, gAll);
-    D.mahira.forEach(function (l) {
-      el('path', { d: l.d, fill: 'url(#lgWmGold)', 'fill-rule': 'evenodd', 'class': 'lg-mah' }, gMah);
-    });
+    el('path', { d: 'M0 0', fill: 'none', class: 'lg-mah' }, gMah);
     var gMahCream = el('g', { id: 'lgMahCream', opacity: 0 }, gAll);
-    D.mahira.forEach(function (l) {
-      el('path', { d: l.d, fill: '#efe6cf', 'fill-rule': 'evenodd' }, gMahCream);
-    });
+    el('path', { d: 'M0 0', fill: 'none' }, gMahCream);
 
     var gSel = el('g', { id: 'lgSel' }, gAll);
-    D.select.letters.forEach(function (l) {
-      el('path', { d: l.d, fill: 'url(#lgSelGold)', 'fill-rule': 'evenodd', 'class': 'lg-sel' }, gSel);
-    });
-    D.select.lines.forEach(function (l, i) {
-      el('rect', { x: l.x, y: l.y, width: l.w, height: Math.max(l.h, 6), fill: 'url(#lgSelGold)', 'class': 'lg-line lg-line-' + i }, gSel);
-    });
+    el('path', { d: 'M0 0', fill: 'none', class: 'lg-sel' }, gSel);
+    el('rect', { x: 0, y: 0, width: 0, height: 0, class: 'lg-line lg-line-0' }, gSel);
+    el('rect', { x: 0, y: 0, width: 0, height: 0, class: 'lg-line lg-line-1' }, gSel);
 
     /* a single champagne light that passes through the whole identity */
     var bright = el('filter', { id: 'lgBright', x: '-25%', y: '-25%', width: '150%', height: '150%' }, defs);
@@ -119,19 +106,20 @@
   }
 
   function buildEmblemOnly(svg, gid) {
-    var defs = el('defs', {}, svg);
-    goldDefs(defs, gid);
+    if (!svg) return;
+    svg.innerHTML = '';
     var g = el('g', {}, svg);
-    el('circle', { cx: EC.x, cy: EC.y, r: D.ring.r, fill: 'none', stroke: 'url(#' + gid + ')', 'stroke-width': D.ring.w + 1 }, g);
-    el('path', { d: D.m.d, fill: 'url(#' + gid + ')', 'fill-rule': 'evenodd' }, g);
-    ['n', 'e', 's', 'w'].forEach(function (k) {
-      if (D.diamonds[k]) el('path', { d: D.diamonds[k].d, fill: 'url(#' + gid + ')', 'fill-rule': 'evenodd' }, g);
-    });
-    ornaments.forEach(function (o) { el('path', { d: o.d, fill: 'url(#' + gid + ')', 'fill-rule': 'evenodd' }, g); });
+    var img = el('image', {
+      href: 'assets/madamcutie-logo-transparent.png',
+      x: 180, y: 35, width: 1240, height: 1240,
+      preserveAspectRatio: 'xMidYMid meet'
+    }, g);
+    img.setAttributeNS('http://www.w3.org/1999/xlink', 'href', 'assets/madamcutie-logo-transparent.png');
   }
 
   var brandSvg = $('#brandLogo');
   var logoParts = buildLogo(brandSvg);
+  buildLogo($('#footLogo'));
   buildEmblemOnly($('#footEmblem'), 'ftGold');
   buildEmblemOnly($('#menuEmblem'), 'mmGold');
 

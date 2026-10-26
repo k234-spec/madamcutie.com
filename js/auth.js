@@ -43,37 +43,15 @@
   }
 
   function buildLogo(svg, withWordmark) {
-    if (!svg || !D) return;
-    var id = 'au' + (++uid);
-    var defs = el('defs', {}, svg);
-
-    var gold = el('linearGradient', { id: id + 'g', gradientUnits: 'userSpaceOnUse', x1: 430, y1: 120, x2: 1180, y2: 850 }, defs);
-    stops(gold, [['0%', '#8a6420'], ['32%', '#c9a35f'], ['50%', '#f0d48c'], ['68%', '#c9a35f'], ['100%', '#7c5a1d']]);
-
+    if (!svg) return;
+    svg.innerHTML = '';
     var g = el('g', {}, svg);
-    var gEm = el('g', {}, g);
-    el('circle', { cx: EC.x, cy: EC.y, r: D.ring.r, fill: 'none', stroke: 'url(#' + id + 'g)', 'stroke-width': D.ring.w + 1 }, gEm);
-    el('path', { d: D.m.d, fill: 'url(#' + id + 'g)', 'fill-rule': 'evenodd' }, gEm);
-    ['n', 's', 'e', 'w'].forEach(function (k) {
-      if (D.diamonds[k]) el('path', { d: D.diamonds[k].d, fill: 'url(#' + id + 'g)', 'fill-rule': 'evenodd' }, gEm);
-    });
-    ornaments.forEach(function (o) {
-      el('path', { d: o.d, fill: 'url(#' + id + 'g)', 'fill-rule': 'evenodd' }, gEm);
-    });
-    if (!withWordmark) return;
-
-    var wm = el('linearGradient', { id: id + 'w', gradientUnits: 'userSpaceOnUse', x1: 0, y1: 1000, x2: 1600, y2: 1180 }, defs);
-    stops(wm, [['0%', '#9a7226'], ['30%', '#d9b269'], ['50%', '#f2d896'], ['70%', '#d9b269'], ['100%', '#9a7226']]);
-    var sel = el('linearGradient', { id: id + 's', gradientUnits: 'userSpaceOnUse', x1: 280, y1: 0, x2: 1320, y2: 0 }, defs);
-    stops(sel, [['0%', '#8a6420'], ['45%', '#e7c87f'], ['60%', '#f0d48c'], ['100%', '#8a6420']]);
-
-    var gMah = el('g', {}, g);
-    D.mahira.forEach(function (l) { el('path', { d: l.d, fill: 'url(#' + id + 'w)', 'fill-rule': 'evenodd' }, gMah); });
-    var gSel = el('g', {}, g);
-    D.select.letters.forEach(function (l) { el('path', { d: l.d, fill: 'url(#' + id + 's)', 'fill-rule': 'evenodd' }, gSel); });
-    D.select.lines.forEach(function (l) {
-      el('rect', { x: l.x, y: l.y, width: l.w, height: Math.max(l.h, 6), fill: 'url(#' + id + 's)' }, gSel);
-    });
+    var img = el('image', {
+      href: 'assets/madamcutie-logo-transparent.png',
+      x: 180, y: 35, width: 1240, height: 1240,
+      preserveAspectRatio: 'xMidYMid meet'
+    }, g);
+    img.setAttributeNS('http://www.w3.org/1999/xlink', 'href', 'assets/madamcutie-logo-transparent.png');
   }
 
   buildLogo($('#brandLogo'), true);
