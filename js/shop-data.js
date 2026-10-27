@@ -129,7 +129,8 @@
       details: 'Handcrafted in India · Precision sculpted fit · Dry clean only',
       colors: [C.gold, C.ivory, C.maroon],
       images: [A + "Vibrant handcrafted mirror-work ethnic corset blouse.PNG"]
-    }),\n    p({
+    }),
+    p({
       id: 'p2',
       cat: 'corset-blouse',
       category: 'Corset Blouse',
@@ -145,7 +146,8 @@
       details: 'Handcrafted in India · Precision sculpted fit · Dry clean only',
       colors: [C.gold, C.ivory, C.maroon],
       images: [A + "IMG_0029.PNG"]
-    }),\n    p({
+    }),
+    p({
       id: 'p3',
       cat: 'corset-blouse',
       category: 'Corset Blouse',
@@ -161,7 +163,8 @@
       details: 'Handcrafted in India · Precision sculpted fit · Dry clean only',
       colors: [C.gold, C.ivory, C.maroon],
       images: [A + "IMG_0047.PNG"]
-    }),\n    p({
+    }),
+    p({
       id: 'p4',
       cat: 'corset-blouse',
       category: 'Corset Blouse',
@@ -177,7 +180,8 @@
       details: 'Handcrafted in India · Precision sculpted fit · Dry clean only',
       colors: [C.gold, C.ivory, C.maroon],
       images: [A + "Vibrant handcrafted mirror-work ethnic corset blouse Blue.PNG"]
-    }),\n    p({
+    }),
+    p({
       id: 'p5',
       cat: 'designer-blouse',
       category: 'Designer Blouse',
@@ -193,7 +197,8 @@
       details: 'Handcrafted in India · Precision sculpted fit · Dry clean only',
       colors: [C.gold, C.ivory, C.maroon],
       images: [A + "Black Beaded Corset Blouse.PNG"]
-    }),\n    p({
+    }),
+    p({
       id: 'p6',
       cat: 'designer-blouse',
       category: 'Designer Blouse',
@@ -209,7 +214,8 @@
       details: 'Handcrafted in India · Precision sculpted fit · Dry clean only',
       colors: [C.gold, C.ivory, C.maroon],
       images: [A + "Golden Mustard Mirror Work Blouse.PNG"]
-    }),\n    p({
+    }),
+    p({
       id: 'p7',
       cat: 'designer-blouse',
       category: 'Designer Blouse',
@@ -225,7 +231,8 @@
       details: 'Handcrafted in India · Precision sculpted fit · Dry clean only',
       colors: [C.gold, C.ivory, C.maroon],
       images: [A + "Black Sequined Chevron Crop Top.PNG"]
-    }),\n    p({
+    }),
+    p({
       id: 'p8',
       cat: 'designer-blouse',
       category: 'Designer Blouse',
@@ -241,7 +248,8 @@
       details: 'Handcrafted in India · Precision sculpted fit · Dry clean only',
       colors: [C.gold, C.ivory, C.maroon],
       images: [A + "Midnight Quilted Pearl Bustier Blouse.PNG"]
-    }),\n    p({
+    }),
+    p({
       id: 'p9',
       cat: 'designer-blouse',
       category: 'Designer Blouse',
@@ -257,7 +265,8 @@
       details: 'Handcrafted in India · Precision sculpted fit · Dry clean only',
       colors: [C.gold, C.ivory, C.maroon],
       images: [A + "Pastel Sorbet Beaded Corset Blouse.PNG"]
-    }),\n    p({
+    }),
+    p({
       id: 'p10',
       cat: 'designer-blouse',
       category: 'Designer Blouse',
@@ -273,7 +282,8 @@
       details: 'Handcrafted in India · Precision sculpted fit · Dry clean only',
       colors: [C.gold, C.ivory, C.maroon],
       images: [A + "Ivory Pastel Threadwork Halter Blouse.PNG"]
-    }),\n    p({
+    }),
+    p({
       id: 'p11',
       cat: 'designer-blouse',
       category: 'Designer Blouse',
@@ -289,7 +299,8 @@
       details: 'Handcrafted in India · Precision sculpted fit · Dry clean only',
       colors: [C.gold, C.ivory, C.maroon],
       images: [A + "Obsidian Zig-Zag Sequined Bustier Blouse.jpeg"]
-    }),\n    p({
+    }),
+    p({
       id: 'p12',
       cat: 'designer-blouse',
       category: 'Designer Blouse',
@@ -305,7 +316,8 @@
       details: 'Handcrafted in India · Precision sculpted fit · Dry clean only',
       colors: [C.gold, C.ivory, C.maroon],
       images: [A + "Champagne Gold Zardozi V-Neck Blouse.PNG"]
-    }),\n    p({
+    }),
+    p({
       id: 'p13',
       cat: 'designer-blouse',
       category: 'Designer Blouse',
@@ -321,7 +333,8 @@
       details: 'Handcrafted in India · Precision sculpted fit · Dry clean only',
       colors: [C.gold, C.ivory, C.maroon],
       images: [A + "Golden Glam Corset Bustier Blouse.PNG"]
-    }),\n    p({
+    }),
+    p({
       id: 'p14',
       cat: 'designer-blouse',
       category: 'Designer Blouse',
@@ -337,7 +350,8 @@
       details: 'Handcrafted in India · Precision sculpted fit · Dry clean only',
       colors: [C.gold, C.ivory, C.maroon],
       images: [A + "High-Neck Beaded Fringe Cape Blouse.PNG"]
-    }),\n    p({
+    }),
+    p({
       id: 'p15',
       cat: 'designer-blouse',
       category: 'Designer Blouse',
@@ -353,7 +367,8 @@
       details: 'Handcrafted in India · Precision sculpted fit · Dry clean only',
       colors: [C.gold, C.ivory, C.maroon],
       images: [A + "Antique Gold Zardosi Corset Blouse.PNG"]
-    }),\n    p({
+    }),
+    p({
       id: 'p16',
       cat: 'designer-blouse',
       category: 'Designer Blouse',
@@ -369,7 +384,8 @@
       details: 'Handcrafted in India · Precision sculpted fit · Dry clean only',
       colors: [C.gold, C.ivory, C.maroon],
       images: [A + "Baby Pink Beaded Fringed Corset Blouse.PNG"]
-    }),\n    p({
+    }),
+    p({
       id: 'p17',
       cat: 'designer-blouse',
       category: 'Designer Blouse',
@@ -385,7 +401,8 @@
       details: 'Handcrafted in India · Precision sculpted fit · Dry clean only',
       colors: [C.gold, C.ivory, C.maroon],
       images: [A + "Glamorous Black embellished corset Blouse.PNG"]
-    }),\n    p({
+    }),
+    p({
       id: 'p18',
       cat: 'designer-blouse',
       category: 'Designer Blouse',
@@ -401,7 +418,8 @@
       details: 'Handcrafted in India · Precision sculpted fit · Dry clean only',
       colors: [C.gold, C.ivory, C.maroon],
       images: [A + "Glamorous Green embellished corset Blouse.PNG"]
-    }),\n    p({
+    }),
+    p({
       id: 'p19',
       cat: 'designer-blouse',
       category: 'Designer Blouse',
@@ -417,7 +435,8 @@
       details: 'Handcrafted in India · Precision sculpted fit · Dry clean only',
       colors: [C.gold, C.ivory, C.maroon],
       images: [A + "Glamorous Red embellished corset Blouse.PNG"]
-    }),\n    p({
+    }),
+    p({
       id: 'p20',
       cat: 'designer-blouse',
       category: 'Designer Blouse',
@@ -433,7 +452,8 @@
       details: 'Handcrafted in India · Precision sculpted fit · Dry clean only',
       colors: [C.gold, C.ivory, C.maroon],
       images: [A + "Glamorous Silver embellished corset Blouse.PNG"]
-    }),\n    p({
+    }),
+    p({
       id: 'p21',
       cat: 'designer-blouse',
       category: 'Designer Blouse',
@@ -449,7 +469,8 @@
       details: 'Handcrafted in India · Precision sculpted fit · Dry clean only',
       colors: [C.gold, C.ivory, C.maroon],
       images: [A + "IMG_0032.PNG"]
-    }),\n    p({
+    }),
+    p({
       id: 'p22',
       cat: 'designer-blouse',
       category: 'Designer Blouse',
@@ -465,7 +486,8 @@
       details: 'Handcrafted in India · Precision sculpted fit · Dry clean only',
       colors: [C.gold, C.ivory, C.maroon],
       images: [A + "IMG_0042.PNG"]
-    }),\n    p({
+    }),
+    p({
       id: 'p23',
       cat: 'corset-blouse',
       category: 'Corset Blouse',
@@ -481,7 +503,8 @@
       details: 'Handcrafted in India · Precision sculpted fit · Dry clean only',
       colors: [C.gold, C.ivory, C.maroon],
       images: [A + "Light Olive Embellished Corset Blouse.PNG"]
-    }),\n    p({
+    }),
+    p({
       id: 'p24',
       cat: 'corset-blouse',
       category: 'Corset Blouse',
@@ -497,7 +520,8 @@
       details: 'Handcrafted in India · Precision sculpted fit · Dry clean only',
       colors: [C.gold, C.ivory, C.maroon],
       images: [A + "Black and Gold Wave-Pattern Bralette.PNG"]
-    }),\n    p({
+    }),
+    p({
       id: 'p25',
       cat: 'corset-blouse',
       category: 'Corset Blouse',
@@ -513,7 +537,8 @@
       details: 'Handcrafted in India · Precision sculpted fit · Dry clean only',
       colors: [C.gold, C.ivory, C.maroon],
       images: [A + "Yellow Lace-Back Corset Blouse.PNG"]
-    }),\n    p({
+    }),
+    p({
       id: 'p26',
       cat: 'designer-blouse',
       category: 'Designer Blouse',
@@ -529,7 +554,8 @@
       details: 'Handcrafted in India · Precision sculpted fit · Dry clean only',
       colors: [C.gold, C.ivory, C.maroon],
       images: [A + "Black Sequin Backless Blouse.PNG"]
-    }),\n    p({
+    }),
+    p({
       id: 'p27',
       cat: 'designer-blouse',
       category: 'Designer Blouse',
@@ -545,7 +571,8 @@
       details: 'Handcrafted in India · Precision sculpted fit · Dry clean only',
       colors: [C.gold, C.ivory, C.maroon],
       images: [A + "Silver Sequin Backless Blouse.PNG"]
-    }),\n    p({
+    }),
+    p({
       id: 'p28',
       cat: 'designer-blouse',
       category: 'Designer Blouse',
@@ -561,7 +588,8 @@
       details: 'Handcrafted in India · Precision sculpted fit · Dry clean only',
       colors: [C.gold, C.ivory, C.maroon],
       images: [A + "Gold Sequin Backless Blouse.PNG"]
-    }),\n    p({
+    }),
+    p({
       id: 'p29',
       cat: 'designer-blouse',
       category: 'Designer Blouse',
@@ -577,7 +605,8 @@
       details: 'Handcrafted in India · Precision sculpted fit · Dry clean only',
       colors: [C.gold, C.ivory, C.maroon],
       images: [A + "IMG_8243.PNG"]
-    }),\n    p({
+    }),
+    p({
       id: 'p30',
       cat: 'corset-blouse',
       category: 'Corset Blouse',
@@ -593,7 +622,8 @@
       details: 'Handcrafted in India · Precision sculpted fit · Dry clean only',
       colors: [C.gold, C.ivory, C.maroon],
       images: [A + "Silver Patterned Corset Top Blouse.PNG"]
-    }),\n    p({
+    }),
+    p({
       id: 'p31',
       cat: 'corset-blouse',
       category: 'Corset Blouse',
@@ -609,7 +639,8 @@
       details: 'Handcrafted in India · Precision sculpted fit · Dry clean only',
       colors: [C.gold, C.ivory, C.maroon],
       images: [A + "Hot Pink Sequin Corset Blouse.PNG"]
-    }),\n    p({
+    }),
+    p({
       id: 'p32',
       cat: 'corset-blouse',
       category: 'Corset Blouse',
@@ -625,7 +656,8 @@
       details: 'Handcrafted in India · Precision sculpted fit · Dry clean only',
       colors: [C.gold, C.ivory, C.maroon],
       images: [A + "Emerald Green Diamond Corset.PNG"]
-    }),\n    p({
+    }),
+    p({
       id: 'p33',
       cat: 'corset-blouse',
       category: 'Corset Blouse',
@@ -641,7 +673,8 @@
       details: 'Handcrafted in India · Precision sculpted fit · Dry clean only',
       colors: [C.gold, C.ivory, C.maroon],
       images: [A + "Hot Pink Mirror Work Lace-Up Corset Blouse.PNG"]
-    }),\n    p({
+    }),
+    p({
       id: 'p34',
       cat: 'corset-blouse',
       category: 'Corset Blouse',
@@ -657,7 +690,8 @@
       details: 'Handcrafted in India · Precision sculpted fit · Dry clean only',
       colors: [C.gold, C.ivory, C.maroon],
       images: [A + "Charcoal Grey Mirror Work Corset Blouse.PNG"]
-    }),\n    p({
+    }),
+    p({
       id: 'p35',
       cat: 'corset-blouse',
       category: 'Corset Blouse',
@@ -673,7 +707,8 @@
       details: 'Handcrafted in India · Precision sculpted fit · Dry clean only',
       colors: [C.gold, C.ivory, C.maroon],
       images: [A + "Sunset Orange Mirror Work Corset Blouse.PNG"]
-    }),\n    p({
+    }),
+    p({
       id: 'p36',
       cat: 'corset-blouse',
       category: 'Corset Blouse',
@@ -689,7 +724,8 @@
       details: 'Handcrafted in India · Precision sculpted fit · Dry clean only',
       colors: [C.gold, C.ivory, C.maroon],
       images: [A + "Deep Maroon Mirror Work Corset Blouse.PNG"]
-    }),\n    p({
+    }),
+    p({
       id: 'p37',
       cat: 'corset-blouse',
       category: 'Corset Blouse',
@@ -705,7 +741,8 @@
       details: 'Handcrafted in India · Precision sculpted fit · Dry clean only',
       colors: [C.gold, C.ivory, C.maroon],
       images: [A + "Mint Green Floral Threadwork Blouse.PNG"]
-    }),\n    p({
+    }),
+    p({
       id: 'p38',
       cat: 'corset-blouse',
       category: 'Corset Blouse',
@@ -721,7 +758,8 @@
       details: 'Handcrafted in India · Precision sculpted fit · Dry clean only',
       colors: [C.gold, C.ivory, C.maroon],
       images: [A + "Off-White Pearl Embellished Blouse.jpeg"]
-    }),\n    p({
+    }),
+    p({
       id: 'p39',
       cat: 'corset-blouse',
       category: 'Corset Blouse',
@@ -737,7 +775,8 @@
       details: 'Handcrafted in India · Precision sculpted fit · Dry clean only',
       colors: [C.gold, C.ivory, C.maroon],
       images: [A + "Metallic Silver Mirror Work Corset Blouse.PNG"]
-    }),\n    p({
+    }),
+    p({
       id: 'p40',
       cat: 'corset-blouse',
       category: 'Corset Blouse',
@@ -753,7 +792,8 @@
       details: 'Handcrafted in India · Precision sculpted fit · Dry clean only',
       colors: [C.gold, C.ivory, C.maroon],
       images: [A + "Mustard Yellow Mirror Work Corset Blouse.PNG"]
-    }),\n    p({
+    }),
+    p({
       id: 'p41',
       cat: 'corset-blouse',
       category: 'Corset Blouse',

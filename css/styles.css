@@ -1,4 +1,4 @@
-﻿/* ============================================================
+/* ============================================================
    MAHIRA SELECT — cinematic luxury experience
    ============================================================ */
 
@@ -53,6 +53,24 @@ body.is-loading { overflow: hidden; }
 a { color: inherit; text-decoration: none; }
 img { max-width: 100%; display: block; }
 button { background: none; border: 0; color: inherit; font: inherit; cursor: pointer; }
+
+/* Accessibility & Screen Reader Utilities */
+.sr-only {
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  padding: 0 !important;
+  margin: -1px !important;
+  overflow: hidden !important;
+  clip: rect(0, 0, 0, 0) !important;
+  white-space: nowrap !important;
+  border: 0 !important;
+}
+
+:focus-visible {
+  outline: 2px solid var(--gold, #c9a35f) !important;
+  outline-offset: 3px !important;
+}
 
 ::selection { background: rgba(201, 163, 95, 0.35); color: var(--cream-hi); }
 
@@ -329,7 +347,7 @@ body.is-ready .util { opacity: 1; transform: none; }
 }
 .pop.is-open { opacity: 1; visibility: visible; transform: none; }
 .pop-head {
-  font-size: 9.5px; letter-spacing: 0.34em; text-indent: 0.34em; text-transform: uppercase;
+  font-size: 11px; letter-spacing: 0.28em; text-indent: 0.28em; text-transform: uppercase;
   color: var(--gold); margin-bottom: 14px;
 }
 .pop a[role="menuitem"], .mini-pop a:not(.pop-cta) {
@@ -344,7 +362,7 @@ body.is-ready .util { opacity: 1; transform: none; }
   position: relative; display: flex; align-items: center; justify-content: center;
   height: 42px; margin-top: 4px;
   border: 1px solid rgba(201, 163, 95, 0.8);
-  font-size: 10px; letter-spacing: 0.22em; text-transform: uppercase;
+  font-size: 11px; letter-spacing: 0.22em; text-transform: uppercase;
   color: var(--gold-light); overflow: hidden;
 }
 .pop-cta .fill {
@@ -358,7 +376,7 @@ body.is-ready .util { opacity: 1; transform: none; }
 .pop-cta:hover .fill { transform: scaleX(1); }
 .pop-alt {
   display: block; margin-top: 10px; text-align: center;
-  font-size: 10px; letter-spacing: 0.2em; text-transform: uppercase;
+  font-size: 11px; letter-spacing: 0.2em; text-transform: uppercase;
   color: rgba(226, 214, 184, 0.84);
 }
 .pop-alt:hover { color: var(--gold-light); }
@@ -470,7 +488,7 @@ body.is-ready .util { opacity: 1; transform: none; }
   color: var(--cream-hi);
   letter-spacing: 0.01em;
 }
-.sp-form input::placeholder { color: rgba(226, 214, 184, 0.56); }
+.sp-form input::placeholder { color: rgba(226, 214, 184, 0.72); }
 .sp-form input::-webkit-search-cancel-button { display: none; }
 .sp-close {
   flex: 0 0 auto; width: 44px; height: 44px;
@@ -482,7 +500,7 @@ body.is-ready .util { opacity: 1; transform: none; }
 .sp-close:hover { color: var(--gold-light); transform: rotate(90deg); }
 .sp-body { margin-top: clamp(20px, 2.6vh, 34px); }
 .sp-label {
-  font-size: 9.5px; letter-spacing: 0.34em; text-indent: 0.34em; text-transform: uppercase;
+  font-size: 11px; letter-spacing: 0.28em; text-indent: 0.28em; text-transform: uppercase;
   color: var(--gold); margin-bottom: 16px;
 }
 .sp-list { display: flex; flex-wrap: wrap; gap: 10px 12px; }
@@ -500,7 +518,7 @@ body.is-ready .util { opacity: 1; transform: none; }
 .sp-list a .sp-ctx {
   margin-left: 9px; padding-left: 9px;
   border-left: 1px solid rgba(201, 163, 95, 0.32);
-  font-size: 9.5px; letter-spacing: 0.16em; text-transform: uppercase;
+  font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase;
   color: rgba(201, 163, 95, 0.94);
   transition: color 0.3s var(--ease), border-color 0.3s var(--ease);
 }
@@ -610,7 +628,7 @@ body.is-ready .menu-btn { opacity: 1; pointer-events: auto; }
 .mn-lead {
   display: block !important;
   border: 0 !important; min-height: 0 !important;
-  font-size: 9.5px !important; letter-spacing: 0.34em; text-indent: 0.34em; text-transform: uppercase;
+  font-size: 11px !important; letter-spacing: 0.28em; text-indent: 0.28em; text-transform: uppercase;
   color: var(--gold) !important;
   margin-bottom: 10px; padding: 0 !important;
 }
@@ -622,11 +640,11 @@ body.is-ready .menu-btn { opacity: 1; pointer-events: auto; }
   display: flex; align-items: center; justify-content: space-between; gap: 14px;
 }
 .mn-foot .mn-acct {
-  font-size: 10.5px; letter-spacing: 0.24em; text-transform: uppercase;
+  font-size: 11px; letter-spacing: 0.24em; text-transform: uppercase;
   color: var(--gold-light);
   min-height: 44px; display: inline-flex; align-items: center;
 }
-.mn-foot p { font-size: 9px; letter-spacing: 0.26em; text-transform: uppercase; color: rgba(226, 214, 184, 0.64); }
+.mn-foot p { font-size: 11px; letter-spacing: 0.26em; text-transform: uppercase; color: rgba(226, 214, 184, 0.64); }
 
 /* ============================================================
    HEADER — TABLET (compact luxury: menu · logo · utilities)
@@ -823,7 +841,7 @@ body.is-ready .menu-btn { opacity: 1; pointer-events: auto; }
   display: inline-flex; align-items: center; justify-content: center;
   height: clamp(44px, 3vw, 56px);
   padding: 0 clamp(20px, 1.9vw, 38px);
-  font-size: clamp(10px, 0.75vw, 13.5px);
+  font-size: clamp(11px, 0.75vw, 13.5px);
   font-weight: 500;
   letter-spacing: 0.2em;
   text-transform: uppercase;
@@ -983,14 +1001,14 @@ body.is-ready .hero-desc { opacity: 1; }
   .slide-content { top: auto; bottom: calc(13.5vh + env(safe-area-inset-bottom)); max-width: 86vw; }
   .s-men .slide-content { top: auto; bottom: calc(13.5vh + env(safe-area-inset-bottom)); }
 
-  .eyebrow { margin-bottom: 1.7vh; letter-spacing: 0.28em; font-size: 10px; }
+  .eyebrow { margin-bottom: 1.7vh; letter-spacing: 0.28em; font-size: 11px; }
   .eb-line { width: 34px; }
   .headline { font-size: clamp(36px, 11vw, 48px); margin-bottom: 1.6vh; line-height: 1.08; }
   .hl-men { font-size: clamp(28px, 8.6vw, 40px); line-height: 1.16; }
   .tagline { font-size: clamp(18px, 5.4vw, 22px); margin-bottom: 2.8vh; }
   .subcopy { margin-bottom: 2.8vh; font-size: 14px; line-height: 1.6; max-width: 94%; }
   .cta-row { flex-direction: column; align-items: flex-start; gap: 12px; }
-  .btn { height: 48px; padding: 0 22px; font-size: 10.5px; width: min(70vw, 268px); justify-content: space-between; }
+  .btn { height: 48px; padding: 0 22px; font-size: 11px; width: min(70vw, 268px); justify-content: space-between; }
 
   .hero-indicators { left: var(--content-x); bottom: calc(4.6vh + env(safe-area-inset-bottom)); }
   .ind.is-on .bar { width: 44px; }
@@ -1058,7 +1076,7 @@ section { position: relative; }
   padding: 0 6vw;
 }
 .sh-eyebrow {
-  font-size: clamp(10px, 0.72vw, 14px);
+  font-size: clamp(11px, 0.72vw, 14px);
   letter-spacing: 0.42em; text-indent: 0.42em;
   text-transform: uppercase;
   font-weight: 400;
@@ -1094,7 +1112,7 @@ section { position: relative; }
 }
 .sh-sub.sh-caps {
   font-family: var(--sans);
-  font-size: clamp(10px, 0.72vw, 13px);
+  font-size: clamp(11px, 0.72vw, 13px);
   letter-spacing: 0.34em; text-indent: 0.34em;
   text-transform: uppercase;
   color: #8d867a;
@@ -1109,7 +1127,7 @@ section { position: relative; }
   height: clamp(42px, 3vw, 54px);
   padding: 0 clamp(18px, 1.6vw, 30px);
   border: 1px solid rgba(201, 163, 95, 0.8);
-  font-size: clamp(10px, 0.7vw, 12.5px);
+  font-size: clamp(11px, 0.7vw, 12.5px);
   font-weight: 500;
   letter-spacing: 0.22em;
   text-transform: uppercase;
@@ -1596,7 +1614,7 @@ section { position: relative; }
 .b-c2 .b-txt, .b-c3 .b-txt { top: 11%; max-width: 42%; }
 .b-no {
   display: inline-flex; align-items: center; gap: 0.7cqw;
-  font-size: clamp(9px, 0.95cqw, 17px); letter-spacing: 0.12em;
+  font-size: clamp(11px, 0.95cqw, 17px); letter-spacing: 0.12em;
   color: #4d463a; margin-bottom: 1.1cqw;
 }
 .b-no::after { content: ""; width: 2.2cqw; height: 1px; background: rgba(77, 70, 58, .55); }
@@ -1605,7 +1623,7 @@ section { position: relative; }
   font-size: clamp(14px, 1.72cqw, 31px);
   line-height: 1.14; color: #241f16; margin-bottom: 0.85cqw;
 }
-.b-txt p { font-family: var(--serif); font-size: clamp(10px, 1.02cqw, 18px); line-height: 1.42; color: #4d463a; }
+.b-txt p { font-family: var(--serif); font-size: clamp(12px, 1.02cqw, 18px); line-height: 1.42; color: #4d463a; }
 .b-c4 .b-no { color: rgba(226, 214, 184, 0.96); }
 .b-c4 .b-no::after { background: rgba(226,214,184,.5); }
 .b-c4 .b-txt h3 { color: #f4eee0; }
@@ -1614,7 +1632,7 @@ section { position: relative; }
 .b-shop {
   position: absolute; left: 6.2%; bottom: 5.5%; z-index: 2;
   display: inline-flex; align-items: center; gap: 0.9cqw;
-  font-size: clamp(8px, 0.78cqw, 14px); letter-spacing: 0.26em; text-transform: uppercase;
+  font-size: clamp(11px, 1.1cqw, 14px); letter-spacing: 0.24em; text-transform: uppercase;
   color: #2e2a20;
 }
 .b-c1 .b-shop { flex-direction: row; }
@@ -1638,7 +1656,7 @@ section { position: relative; }
   box-shadow: 0 0.7cqw 1.8cqw rgba(10, 16, 11, 0.3);
 }
 .b-badge span {
-  font-size: clamp(7px, 0.62cqw, 11px); letter-spacing: 0.2em; text-indent: 0.2em;
+  font-size: 11px; letter-spacing: 0.2em; text-indent: 0.2em;
   text-transform: uppercase; text-align: center; line-height: 1.5; color: #3a3428;
 }
 .b-badge i { width: 1.7cqw; height: 1px; background: rgba(160,130,70,.8); position: relative; }
@@ -1648,11 +1666,11 @@ section { position: relative; }
 /* ---------- closing CTA + corner marks ---------- */
 .b-all { position: absolute; z-index: 3; left: 39.97%; top: 83.79%; }
 .b-all .cta { height: 3cqw; padding: 0 2.1cqw; }
-.b-all .cta .lbl { font-size: clamp(8px, 0.8cqw, 14px); letter-spacing: 0.24em; }
+.b-all .cta .lbl { font-size: clamp(11px, 1.1cqw, 14px); letter-spacing: 0.24em; }
 .b-all .cta .arrow { width: 1.75cqw; margin-left: 1.5cqw; }
 .b-corner { position: absolute; z-index: 3; display: flex; flex-direction: column; gap: 0.9cqw; }
 .b-corner span {
-  font-size: clamp(8px, 0.72cqw, 13px);
+  font-size: clamp(11px, 0.85cqw, 13px);
   letter-spacing: 0.3em; text-transform: uppercase;
   color: rgba(226, 214, 184, 0.94); white-space: nowrap;
 }
@@ -1823,7 +1841,7 @@ section { position: relative; }
 .f-script span { display: block; padding-left: 1.2em; }
 .f-script-rule { display: block; width: 120px; height: 1px; background: linear-gradient(90deg, rgba(201,163,95,.7), transparent); margin-top: 2vh; }
 .f-col h4, .f-news h4 {
-  font-size: clamp(10.5px, 0.78vw, 14px); letter-spacing: 0.3em; text-transform: uppercase;
+  font-size: clamp(11px, 0.78vw, 14px); letter-spacing: 0.3em; text-transform: uppercase;
   font-weight: 500; color: var(--cream-hi);
   margin-bottom: 1.2vh;
 }
@@ -1924,7 +1942,7 @@ section { position: relative; }
 }
 .bt-circle svg { width: 34%; fill: none; stroke: currentColor; stroke-width: 1.4; stroke-linecap: round; stroke-linejoin: round; }
 #backTop:hover .bt-circle { background: var(--gold); color: var(--ink-on-gold); transform: translateY(-3px); }
-.bt-label { font-size: 9px; letter-spacing: 0.32em; text-indent: 0.32em; text-transform: uppercase; }
+.bt-label { font-size: 11px; letter-spacing: 0.28em; text-indent: 0.28em; text-transform: uppercase; }
 
 /* ============================================================
    SECTIONS · RESPONSIVE
@@ -1947,7 +1965,7 @@ section { position: relative; }
   .x-head { position: static; z-index: 3; }
   .x-card { position: relative; z-index: 2; width: 100%; height: auto; top: auto; left: auto; aspect-ratio: 765 / 523; }
   .x-copy { top: 8.5cqw; max-width: 46cqw; }
-  .x-copy .cta { height: 42px; padding: 0 18px; font-size: 10px; letter-spacing: 0.2em; margin-top: 16px; }
+  .x-copy .cta { height: 42px; padding: 0 18px; font-size: 11px; letter-spacing: 0.2em; margin-top: 16px; }
   .x-copy .cta .arrow { width: 20px; margin-left: 12px; }
   .x-rule { margin: 10px 0 12px; }
 
@@ -2175,6 +2193,17 @@ main > section[id], footer[id] { scroll-margin-top: calc(var(--hdr-h-solid) + 14
     transition: opacity .9s var(--ease), transform .9s var(--ease),
                 color .3s var(--ease) 1.66s;
   }
+}
+
+/* ============================================================
+   TOUCH ADAPTATIONS (Fine vs Coarse pointer)
+   ============================================================ */
+@media (pointer: coarse) {
+  .util { min-width: 44px; min-height: 44px; }
+  .cta, .btn, .pop-cta { min-height: 46px; }
+  .f-col a { min-height: 44px; }
+  .f-social a { width: 44px; height: 44px; }
+  .sp-list a { min-height: 44px; }
 }
 
 /* ============================================================

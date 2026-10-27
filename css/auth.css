@@ -13,6 +13,7 @@
   --au-ivory-lo: var(--mn-ivory-lo, #EDE2CE);
   --au-forest:   var(--mn-forest, #17261B);
   --au-gold:     var(--mn-gold, #B89A62);
+  --au-gold-ink: var(--mn-gold-ink, #7C6132);
   --au-walnut:   var(--mn-walnut, #3B3025);
 
   background: var(--au-ivory);
@@ -22,6 +23,10 @@
 }
 .auth-page main,
 .auth-page section { position: relative; }
+.auth-page :focus-visible {
+  outline: 2px solid var(--au-gold, #B89A62) !important;
+  outline-offset: 3px !important;
+}
 
 /* the vine watermark, shared by every ivory surface here */
 .auth-page {
@@ -73,7 +78,7 @@
 
 .auth-utils { flex: 0 0 auto; display: flex; align-items: center; gap: clamp(8px, 1vw, 16px); }
 .auth-utils .util {
-  width: 40px; height: 40px;
+  width: 44px; height: 44px;
   display: inline-flex; align-items: center; justify-content: center;
   color: var(--au-walnut);
   transition: color 0.3s var(--ease), transform 0.3s var(--ease);
@@ -102,7 +107,7 @@
 .auth-3col { grid-template-columns: 31.1% 30.6% 38.2%; }
 
 /* ---------- editorial photography ---------- */
-.au-ed { position: relative; overflow: hidden; background: #101a12; }
+.au-ed { position: relative; overflow: hidden; background: #101a12; color: #F7F1E4; }
 .au-ed-img { position: absolute; inset: 0; }
 .au-ed-img img,
 .au-ed-img picture { position: absolute; inset: 0; width: 100%; height: 100%; display: block; }
@@ -125,8 +130,8 @@
 
 .au-eyebrow { display: flex; flex-direction: column; gap: 5px; }
 .au-eyebrow span {
-  font-size: clamp(9px, 0.66vw, 11.5px);
-  letter-spacing: 0.34em; text-transform: uppercase;
+  font-size: clamp(11px, 0.72vw, 12px);
+  letter-spacing: 0.28em; text-transform: uppercase;
   color: rgba(238, 230, 208, 0.96);
 }
 .au-eyerule { display: block; width: 42px; height: 1px; background: var(--au-gold); margin: 16px 0 22px; }
@@ -274,7 +279,7 @@
   font-size: 15px; letter-spacing: 0.012em;
   color: var(--au-walnut);
 }
-.au-field input::placeholder { color: rgba(59, 48, 37, 0.66); }
+.au-field input::placeholder { color: rgba(59, 48, 37, 0.76); }
 .au-field input:-webkit-autofill {
   -webkit-text-fill-color: var(--au-walnut);
   -webkit-box-shadow: 0 0 0 40px #FFFDF8 inset;
@@ -440,7 +445,7 @@
 }
 .au-tag {
   display: none; margin-top: 14px; text-align: center;
-  font-size: 9.5px; letter-spacing: 0.3em; text-transform: uppercase;
+  font-size: 11px; letter-spacing: 0.26em; text-transform: uppercase;
   color: rgba(59, 48, 37, 0.75);
 }
 
@@ -455,8 +460,8 @@
 .au-rail-em { width: 42px; height: 46px; display: block; }
 .au-rail p { display: flex; flex-direction: column; align-items: center; gap: 7px; text-align: center; }
 .au-rail span {
-  font-size: clamp(8px, 0.56vw, 10px);
-  letter-spacing: 0.26em; text-transform: uppercase;
+  font-size: clamp(11px, 0.72vw, 12px);
+  letter-spacing: 0.24em; text-transform: uppercase;
   color: rgba(59, 48, 37, 0.82);
   white-space: nowrap;
 }
@@ -510,7 +515,7 @@
 
   .auth-2col, .auth-3col { grid-template-columns: 43% 57%; }
   .au-ed-copy { left: 16px; right: 12px; max-width: none; }
-  .au-eyebrow span { font-size: 8.5px; letter-spacing: 0.24em; }
+  .au-eyebrow span { font-size: 11px; letter-spacing: 0.22em; }
   .au-eyerule { width: 26px; margin: 12px 0 16px; }
   .au-ed-head { font-size: clamp(19px, 5.6vw, 26px); line-height: 1.18; }
   .au-ed-sub { font-size: 11.5px; margin-top: 12px; }
@@ -577,7 +582,7 @@
   .au-ed-head { font-size: clamp(28px, 8.6vw, 40px); }
   .au-ed-sub { font-size: 13px; }
   .au-eyebrow { flex-direction: row; flex-wrap: wrap; gap: 0 6px; }
-  .au-eyebrow span { font-size: 9.5px; letter-spacing: 0.28em; }
+  .au-eyebrow span { font-size: 11px; letter-spacing: 0.24em; }
   .au-eyerule { margin: 14px 0 18px; }
   .au-ed-veil {
     background: linear-gradient(180deg, rgba(8,16,10,.34) 0%, rgba(8,16,10,.12) 34%, rgba(8,16,10,.58) 76%, rgba(8,16,10,.86) 100%);
@@ -615,13 +620,23 @@
 }
 
 /* ============================================================
+   TOUCH ADAPTATIONS (Fine vs Coarse pointer)
+   ============================================================ */
+@media (pointer: coarse) {
+  .auth-utils .util { width: 44px; height: 44px; }
+  .au-check { min-height: 44px; }
+  .au-row .au-link, .au-swap a { display: inline-block; padding: 12px 6px; margin: -12px -6px; }
+}
+
+/* ============================================================
    LEGIBILITY PASS — see styles.css for the reasoning
    ============================================================ */
 .au-eyebrow-g span, .au-rail span, .au-story-foot span { font-weight: 500; }
-.au-eyebrow-g span { color: var(--mn-gold-ink); }
+.au-eyebrow-g span { color: var(--gold-light, #eccf8b); }
 .au-rail:not(.au-rail-in) span { color: rgba(59, 48, 37, 0.86); }
 .auth-nav a, .util-tag, .au-cta, .au-soc { font-weight: 500; }
-.au-head, .au-ed-head, .au-story-head { color: inherit; }
+.au-head { color: var(--au-walnut); }
+.au-ed-head, .au-story-head { color: #F7F1E4; }
 .au-field input, .au-cc select { font-weight: 400; }
 .au-check-t, .au-link, .au-swap, .au-sub, .au-note { font-weight: 400; }
 .au-tag { font-weight: 500; color: rgba(59, 48, 37, 0.72); }

@@ -319,10 +319,12 @@
       return '<i style="background:' + c.hex + '" title="' + esc(c.name) + '"></i>';
     }).join('');
     var off = pr.mrp ? Math.round((1 - pr.price / pr.mrp) * 100) : 0;
+    var isHero = (typeof idx === 'number' && idx < 2);
+    var loadAttr = isHero ? ' fetchpriority="high" decoding="async"' : ' loading="lazy" decoding="async"';
     return '' +
       '<a class="pc" href="product.html?p=' + pr.id + '" data-id="' + pr.id + '">' +
         '<span class="pc-img">' +
-          '<img src="' + pr.images[0] + '" alt="' + esc(pr.title) + '" loading="lazy" decoding="async">' +
+          '<img src="' + pr.images[0] + '" alt="' + esc(pr.title) + '"' + loadAttr + '>' +
           (pr.images[1] ? '<img class="pc-alt" src="' + pr.images[1] + '" alt="" aria-hidden="true" loading="lazy" decoding="async">' : '') +
           (off >= 10 ? '<span class="pc-off">' + off + '% off</span>' : '') +
           '<button type="button" class="pc-wish" data-wish="' + pr.id + '" aria-label="Add to wishlist" aria-pressed="false">' +
@@ -572,7 +574,7 @@
     /* gallery */
     var main = $('#pMain'), rail = $('#pRail');
     rail.innerHTML = pr.images.map(function (src, i) {
-      return '<button type="button" class="p-th' + (i === 0 ? ' is-on' : '') + '" data-i="' + i + '" aria-label="View image ' + (i + 1) + '"><img src="' + src + '" alt="" loading="lazy"></button>';
+      return '<button type="button" class="p-th' + (i === 0 ? ' is-on' : '') + '" data-i="' + i + '" aria-label="View image ' + (i + 1) + '"><img src="' + src + '" alt="' + esc(pr.title) + ' photo ' + (i + 1) + '" loading="lazy"></button>';
     }).join('');
     function showImage(i) {
       if (!pr.images[i]) return;
@@ -835,11 +837,26 @@
     }
     $('#addrAdd').addEventListener('click', function () { openAddrForm(null); });
     $('#afCancel').addEventListener('click', function () { form.classList.remove('is-open'); });
+    ['#afLabel', '#afName', '#afLine', '#afCity', '#afPhone'].forEach(function (sel) {
+      var el = $(sel);
+      if (el) el.addEventListener('input', function () { el.removeAttribute('aria-invalid'); });
+    });
     form.addEventListener('submit', function (e) {
       e.preventDefault();
-      var vals = { label: $('#afLabel').value.trim(), name: $('#afName').value.trim(),
-                   line: $('#afLine').value.trim(), city: $('#afCity').value.trim(), phone: $('#afPhone').value.trim() };
-      if (!vals.label || !vals.name || !vals.line || !vals.city || !vals.phone) { toast('Please complete every field'); return; }
+      var labelInput = $('#afLabel'), nameInput = $('#afName'),
+          lineInput = $('#afLine'), cityInput = $('#afCity'), phoneInput = $('#afPhone');
+      var vals = { label: labelInput.value.trim(), name: nameInput.value.trim(),
+                   line: lineInput.value.trim(), city: cityInput.value.trim(), phone: phoneInput.value.trim() };
+      var valid = true;
+      [labelInput, nameInput, lineInput, cityInput, phoneInput].forEach(function (inp) {
+        if (!inp.value.trim()) {
+          inp.setAttribute('aria-invalid', 'true');
+          valid = false;
+        } else {
+          inp.removeAttribute('aria-invalid');
+        }
+      });
+      if (!valid) { toast('Please complete every field'); return; }
       var editing = form.getAttribute('data-edit');
       if (editing) { list = list.map(function (a) { return a.id === editing ? Object.assign(a, vals) : a; }); }
       else { list.forEach(function (a) { a.def = false; }); list.push(Object.assign({ id: 'a' + Date.now(), def: true }, vals)); }
@@ -857,9 +874,10 @@
       $('#payAddr').innerHTML = '<b>' + esc(addr.label) + '</b> · ' + esc(addr.name) + '<br>' + esc(addr.line) + ', ' + esc(addr.city);
     }
     $('#place').addEventListener('click', function () {
+      var btn = $('#place');
+      if (btn.classList.contains('is-busy')) return;
       var m = $('input[name="pay"]:checked');
       if (!m) { toast('Choose a payment method'); return; }
-      var btn = $('#place');
       btn.classList.add('is-busy');
       btn.querySelector('.sh-cta-l').textContent = 'Placing your order…';
       setTimeout(function () {
@@ -905,7 +923,7 @@
     if (note && !$('#okMail')) {
       note.insertAdjacentHTML('afterend',
         '<p class="ok-note" style="margin-top:6px"><a id="okMail" href="email-preview.html" ' +
-        'style="color:#B89A62;text-decoration:underline;text-underline-offset:3px">' +
+        'style="color:var(--s-gold-ink,#7C6132);text-decoration:underline;text-underline-offset:3px">' +
         'Preview the confirmation email</a></p>');
     }
     setStepper(3);

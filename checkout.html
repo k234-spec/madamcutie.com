@@ -65,11 +65,16 @@
           <div id="addrList"></div>
           <form class="af" id="addrForm" novalidate>
             <h3 id="afTitle">Add New Address</h3>
-            <input type="text" id="afLabel" placeholder="Label (Home, Office…)" autocomplete="off">
-            <input type="text" id="afName" placeholder="Full name" autocomplete="name">
-            <input type="text" id="afLine" class="af-wide" placeholder="Street address" autocomplete="street-address">
-            <input type="text" id="afCity" placeholder="City, State, PIN" autocomplete="address-level2">
-            <input type="tel" id="afPhone" placeholder="Phone number" autocomplete="tel">
+            <label for="afLabel" class="sr-only">Address Label</label>
+            <input type="text" id="afLabel" placeholder="Label (Home, Office…)" autocomplete="off" aria-label="Address Label (Home, Office)" required>
+            <label for="afName" class="sr-only">Full Name</label>
+            <input type="text" id="afName" placeholder="Full name" autocomplete="name" aria-label="Full name" required>
+            <label for="afLine" class="sr-only">Street Address</label>
+            <input type="text" id="afLine" class="af-wide" placeholder="Street address" autocomplete="street-address" aria-label="Street address" required>
+            <label for="afCity" class="sr-only">City, State, PIN</label>
+            <input type="text" id="afCity" placeholder="City, State, PIN" autocomplete="address-level2" aria-label="City, State, PIN" required>
+            <label for="afPhone" class="sr-only">Phone Number</label>
+            <input type="tel" id="afPhone" placeholder="Phone number" autocomplete="tel" aria-label="Phone number" required>
             <div class="af-acts">
               <button type="submit" class="sh-cta" style="min-height:46px"><span class="sh-cta-l">Save Address</span></button>
               <button type="button" class="sh-ghost" id="afCancel" style="min-height:46px">Cancel</button>
@@ -102,10 +107,10 @@
 </main>
 
 <footer class="sh-foot">
-  <span class="sh-foot-b">
+  <div class="sh-foot-b">
     <svg id="footEmblemS" viewBox="380 30 840 900" aria-hidden="true"></svg>
     <p>Madamcutie</p>
-  </span>
+  </div>
   <p>Tradition Lives Beautifully</p>
 </footer>
 

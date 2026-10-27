@@ -225,6 +225,7 @@
     inp.addEventListener('blur', function () { wrap.classList.remove('is-focus'); });
     inp.addEventListener('input', function () {
       wrap.classList.remove('is-bad');
+      inp.removeAttribute('aria-invalid');
       var err = wrap.nextElementSibling;
       if (err && err.classList.contains('au-err')) err.classList.remove('is-on');
     });
@@ -244,13 +245,21 @@
 
   function fail(inputId, errId, msg) {
     var inp = document.getElementById(inputId), err = document.getElementById(errId);
-    if (inp) { var w = inp.closest('.au-field'); if (w) w.classList.add('is-bad'); }
+    if (inp) {
+      var w = inp.closest('.au-field');
+      if (w) w.classList.add('is-bad');
+      inp.setAttribute('aria-invalid', 'true');
+    }
     if (err) { err.textContent = msg; err.classList.add('is-on'); }
     return false;
   }
   function clearErrs(form) {
     $$('.au-err', form).forEach(function (e) { e.classList.remove('is-on'); });
-    $$('.au-field', form).forEach(function (e) { e.classList.remove('is-bad'); });
+    $$('.au-field', form).forEach(function (e) {
+      e.classList.remove('is-bad');
+      var inp = e.querySelector('input, select');
+      if (inp) inp.removeAttribute('aria-invalid');
+    });
   }
   var EMAIL = /^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/;
 

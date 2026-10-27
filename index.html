@@ -1,4 +1,4 @@
-﻿<!doctype html>
+<!doctype html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
@@ -168,7 +168,7 @@
     <div class="slide s-women is-active" data-index="0">
       <div class="img-wrap"><picture>
         <source media="(max-width: 700px)" srcset="assets/women-mobile.jpg?v=3">
-        <img src="assets/women-clean.jpg?v=3" alt="Woman in an embroidered champagne saree seated in a deep green heritage room">
+        <img src="assets/women-clean.jpg?v=3" alt="Woman in an embroidered champagne saree seated in a deep green heritage room" fetchpriority="high" decoding="async">
       </picture></div>
       <div class="veil"></div>
       <div class="slide-content">
@@ -491,10 +491,11 @@
       <p>Be the first to know about new collections, exclusive offers and stories from our artisans.</p>
       <form id="newsForm" novalidate>
         <div class="f-field">
-          <input type="email" id="newsEmail" placeholder="Your email address" autocomplete="email" required>
+          <label for="newsEmail" class="sr-only">Your email address</label>
+          <input type="email" id="newsEmail" placeholder="Your email address" autocomplete="email" aria-label="Your email address" required>
           <button type="submit" aria-label="Subscribe"><svg viewBox="0 0 16 12"><path d="M0 6h12M9 2l4 4-4 4"/></svg></button>
         </div>
-        <label class="f-agree"><input type="checkbox"><span></span>I agree to receive updates from Madamcutie.</label>
+        <label class="f-agree"><input type="checkbox" aria-label="I agree to receive updates from Madamcutie"><span></span>I agree to receive updates from Madamcutie.</label>
       </form>
       <p class="f-thanks">Thank you. Welcome to the story.</p>
       <div class="f-social">
